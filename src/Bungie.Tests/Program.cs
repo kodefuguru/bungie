@@ -23,7 +23,7 @@
             //var response = service.GetAggregateActivityStats(type, id, cid, definitions: true);
             //var response = service.GetCharacterActivities(type, id, cid, definitions: true);
             //var response = service.GetCharacterInventory(type, id, cid, definitions: true);
-            var response = service.GetCharacterInventorySummary(type, id, cid, definitions: true);
+            //var response = service.GetCharacterInventorySummary(type, id, cid, definitions: true);
             //var response = service.GetCharacterProgression(type, id, cid, definitions: true);
             //var response = service.GetCharacterSummary(type, id, cid, definitions: true);
             //var response = service.GetDefinition(DefinitionType.Activity, 3120351941, definitions: true);
@@ -65,7 +65,7 @@
             //var response = service.GetVendor(vendor, definitions: true);
             //var response = service.GetVendorWithMetadata(vendor, definitions: true);
             //var response = service.GetXur(definitions: true);
-            //var response = service.SearchItems(definitions: true);
+            var response = service.SearchItems(definitions: true);
             //var response = service.SearchPlayers(type, "kodefuguru");
             //var response = service.SearchTalentNodeSteps(definitions: true);
             var result = response.Result;

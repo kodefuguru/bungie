@@ -1,7 +1,7 @@
 ﻿namespace Bungie
 {
     [BaseJump.Numeric]
-    public enum OrderBy
+    public enum SortOrder
     {
         None = 0,
         Name = 1,

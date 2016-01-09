@@ -537,26 +537,36 @@
         }
 
         /// <summary>
-        /// Advanced InventoryItem search.
+        /// Gets a paged list of Destiny items.
         /// </summary>
         /// <remarks>
-        /// http://bungienetplatform.wikia.com/wiki/GetDestinyExplorerItems
-        /// </remarks>        
+        /// https://www.bungie.net/platform/destiny/help/HelpDetail/GET?uri=Explorer%2fItems%2f
+        /// </remarks>
+        /// <param name="impactEffects">Items must have node steps in one of these categories, omit for all items. ArmorPiercing, Ricochet, Flinch, CollateralDamage, Disorient, HighlightTarget</param>
+        /// <param name="guardianAttributes">Items must have node steps in one of these categories, omit for all items. Stats, Shields, Health, Revive, AimUnderFire, Radar, Invisibility, Reputations</param>
+        /// <param name="lightAbilities">Items must have node steps in one of these categories, omit for all items. Grenades, Melee, MovementModes, Orbs, SuperEnergy, SuperMods</param>
+        /// <param name="damageTypes">Items must have node steps in one of these categories, omit for all items. Kinetic, Arc, Solar, Void</param>
+        /// <param name="sourcecat">Items must drop from the specified source category, omit for all items. Use Vendor or Activity.</param>
+        /// <param name="sourcehash">Items must drop from the specified source, omit for all items. Overrides sourcecat.</param>
+        /// <param name="matchrandomsteps">True if the supplied groups/step hash filters should match random node steps. False indicates the item can always get the step before it is considered a match.</param>
+        /// <param name="definitions">Indicates the item definitions should be returned with item hash results.</param>
+        /// <param name="categories">Category identifiers. Only items that are in all of the passed-in categories will be returned.</param>
+        /// <param name="order">Item property used for sorting. Use Name, ItemType, Rarity, ItemTypeName, ItemStatHash, MinimumRequiredLevel, MaximumRequiredLevel.</param>
+        /// <param name="weaponPerformance">Items must have node steps in one of these categories, omit for all items. RateOfFire, Damage, Accuracy, Range, Zoom, Recoil, Ready, Reload, HairTrigger, AmmoAndMagazine, TrackingAndDetonation, ShotgunSpread, ChargeTime</param>
+        /// <param name="rarity">Rarity of items to return: Currency, Basic, Common, Rare, Superior, Exotic. Omit for all items.</param>
+        /// <param name="page">Page number to return, starting with 0.</param>
+        /// <param name="name">Name of items to return (partial match, no case). Omit for all items.</param>
+        /// <param name="count">Number of rows to return. Use 10, 25, 50, 100, or 500.</param>
+        /// <param name="orderstathash">This value is used when the order parameter is set to ItemStatHash. The item stat for the provided hash value will be used in the sort.</param>
+        /// <param name="direction">Order to sort items: Ascending or Descending</param>
+        /// <param name="step">Hash ID of the talent node step that an item must have in order to be returned.</param>
         [Route("Explorer/Items")]
-        public async Task<SearchItemsResponse> SearchItems(int? count = null, CharacterClass? characterClass = null, IEnumerable<ItemType> types = null, ItemSubtype? subtype = null, Unknown orderStatHash = default(Unknown), Unknown direction = default(Unknown), Rarity? rarity = null, IEnumerable<Bucket> buckets = null, Unknown bucketsOrTypes = default(Unknown), Unknown weaponPerformance = default(Unknown), bool? definitions = null)
+        public async Task<SearchItemsResponse> SearchItems(ImpactEffect? impactEffects = null, GuardianAttribute? guardianAttributes = null, LightAbility? lightAbilities = null, DamageType? damageTypes = null, SourceCategory? sourcecat = null, long? sourcehash = null, bool? matchrandomsteps = null, bool? definitions = null, long? categories = null, SortOrder? order = null, WeaponPerformance? weaponPerformance = null, Rarity? rarity = null, int? page = null, string name = null, Count? count = null, bool? orderstathash = null, SortDirection? direction = null, long? step = null)
         {
             var model = new
             {
+                impactEffects,
                 count,
-                characterClass,
-                types,
-                subtype,
-                orderStatHash,
-                direction,
-                rarity,
-                buckets,
-                bucketsOrTypes,
-                weaponPerformance,
                 definitions
             };
 

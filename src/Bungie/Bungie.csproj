@@ -41,6 +41,7 @@
     <Compile Include="Bucket.cs" />
     <Compile Include="BungieService.cs" />
     <Compile Include="CharacterClass.cs" />
+    <Compile Include="DamageType.cs" />
     <Compile Include="Definitions\Activity.cs" />
     <Compile Include="Definitions\ActivityBundle.cs" />
     <Compile Include="Definitions\ActivityType.cs" />
@@ -95,8 +96,11 @@
     <Compile Include="DefinitionType.cs" />
     <Compile Include="DestinyService.cs" />
     <Compile Include="GenderType.cs" />
+    <Compile Include="GuardianAttribute.cs" />
     <Compile Include="HashMap.cs" />
     <Compile Include="IDestinyService.cs" />
+    <Compile Include="ImpactEffect.cs" />
+    <Compile Include="LightAbility.cs" />
     <Compile Include="Models\AckState.cs" />
     <Compile Include="Models\Activity.cs" />
     <Compile Include="Models\ActivityEntry.cs" />
@@ -124,6 +128,7 @@
     <Compile Include="Models\TalentNodeStats.cs" />
     <Compile Include="Models\UserInfo.cs" />
     <Compile Include="Models\WeaponStat.cs" />
+    <Compile Include="Count.cs" />
     <Compile Include="RaceType.cs" />
     <Compile Include="Responses\DefinitionsResponse.cs" />
     <Compile Include="Responses\GetAccountSummaryResponse.cs" />
@@ -217,6 +222,8 @@
     <Compile Include="Responses\SearchItemsResponse.cs" />
     <Compile Include="Responses\SearchPlayersResponse.cs" />
     <Compile Include="Responses\SearchTalentNodeStepsResponse.cs" />
+    <Compile Include="SortDirection.cs" />
+    <Compile Include="SourceCategory.cs" />
     <Compile Include="Unknown.cs" />
     <Compile Include="NotAuthenticatedException.cs" />
     <Compile Include="Responses\Message.cs" />
@@ -276,12 +283,13 @@
     <Compile Include="Models\UnlockStatus.cs" />
     <Compile Include="Models\VendorAdvisor.cs" />
     <Compile Include="Models\VendorItem.cs" />
-    <Compile Include="OrderBy.cs" />
+    <Compile Include="SortOrder.cs" />
     <Compile Include="PeriodType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ItemSubtype.cs" />
     <Compile Include="Rarity.cs" />
     <Compile Include="StatsGroup.cs" />
+    <Compile Include="WeaponPerformance.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
