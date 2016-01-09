@@ -20,6 +20,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetAccount
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}")]
+        [Obsolete("Use GetAccountSummary. GetAccount is marked DEPRECATED int the bungie.net platform.")]
         public async Task<GetAccountResponse> GetAccount(MembershipType membershipType, long membershipId, bool? definitions = null)
         {
             var model = new

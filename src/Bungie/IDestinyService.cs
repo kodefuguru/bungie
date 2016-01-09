@@ -7,6 +7,7 @@ namespace Bungie
 
     public interface IDestinyService
     {
+        [Obsolete("Use GetAccountSummary. GetAccount is marked DEPRECATED int the bungie.net platform.")]
         Task<GetAccountResponse> GetAccount(MembershipType membershipType, long membershipId, bool? definitions = null);
         Task<GetAccountSummaryResponse> GetAccountSummary(MembershipType membershipType, long membershipId, bool? definitions = null);
         Task<GetActivitiesResponse> GetActivities(MembershipType membershipType, long membershipId, long characterId, ActivityMode mode, int? count = null, int? page = null, bool? definitions = null);
