@@ -24,7 +24,7 @@ namespace Bungie
         Task<GetItemDetailResponse> GetItemDetail(MembershipType membershipType, long membershipId, long characterId, long itemId, bool? definitions = null);
         Task<GetLiveTilesResponse> GetLiveTiles();
         Task<GetManifestResponse> GetManifest();
-        Task<long> GetMembershipIdByDisplayName(MembershipType membershipType, string displayName, bool? ignoreCase = null);
+        Task<long> GetMembershipId(MembershipType membershipType, string displayName, bool? ignoreCase = null);
         Task<GetPostGameCarnageReportResponse> GetPostGameCarnageReport(long activityId, bool? definitions = null);
         Task<GetStatsDefinitionResponse> GetStatsDefinition();
         Task<GetStatsForAccountResponse> GetStatsForAccount(MembershipType membershipType, long membershipId, IEnumerable<StatsGroup> groups = null);

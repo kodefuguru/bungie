@@ -333,7 +333,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetMembershipIdByDisplayName
         /// </remarks>
         [Route("{membershipType}/Stats/GetMembershipIdByDisplayName/{displayName}")]
-        public async Task<long> GetMembershipIdByDisplayName(MembershipType membershipType, string displayName, bool? ignoreCase = null)
+        public async Task<long> GetMembershipId(MembershipType membershipType, string displayName, bool? ignoreCase = null)
         {
             var model = new
             {
