@@ -76,7 +76,9 @@
 
         private IEnumerable<CustomAttributeData> GetAttributes()
         {
-            foreach (var attribute in metadata.PropertyType.GetTypeInfo().CustomAttributes)
+            var info = UnwrapNullable(metadata.PropertyType.GetTypeInfo());
+
+            foreach (var attribute in info.CustomAttributes)
             {
                 yield return attribute;
             }
@@ -85,6 +87,15 @@
             {
                 yield return attribute;
             }
+        }
+
+        private TypeInfo UnwrapNullable(TypeInfo info)
+        {
+            if (info.IsGenericType && info.GetGenericTypeDefinition() == typeof(Nullable<>))
+            {
+                return info.GenericTypeArguments[0].GetTypeInfo();
+            }
+            return info;
         }
 
         private Type GetFirstLevelAttributeType(Type attributeType)
