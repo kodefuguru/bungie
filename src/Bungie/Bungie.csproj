@@ -97,6 +97,7 @@
     <Compile Include="GenderType.cs" />
     <Compile Include="HashMap.cs" />
     <Compile Include="IDestinyService.cs" />
+    <Compile Include="Models\AckState.cs" />
     <Compile Include="Models\Activity.cs" />
     <Compile Include="Models\ActivityEntry.cs" />
     <Compile Include="Models\ActivityEntryExtended.cs" />

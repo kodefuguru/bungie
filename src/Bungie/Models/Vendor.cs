@@ -5,6 +5,7 @@
     public class Vendor
     {
         public long VendorHash { get; set; }
+        public AckState AckState { get; set; }
         public DateTime NextRefreshDate { get; set; }
         public bool Enabled { get; set; }
         public SaleItemCategory[] SaleItemCategories { get; set; }

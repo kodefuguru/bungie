@@ -47,7 +47,7 @@
             //var response = service.GetDefinition(DefinitionType.TalentGrid, 3604172206, definitions: true);
             //var response = service.GetDefinition(DefinitionType.UnlockFlag, 1680320212, definitions: true);
             //var response = service.GetDefinition(DefinitionType.Vendor, 570929315, definitions: true);
-            //var response = service.GetEvents(definitions: true);
+            var response = service.GetEvents(definitions: true);
             //var response = service.GetExcellenceBadges(type, id, definitions: true);
             //var response = service.GetGrimoireByMembership(type, id, definitions: true);
             //var response = service.GetGrimoireDefinition();
@@ -63,7 +63,7 @@
             //var response = service.GetUniqueWeaponsStats(type, id, cid, definitions: true);
             //var response = service.GetVendor(vendor, definitions: true);
             //var response = service.GetVendorWithMetadata(vendor, definitions: true);
-            var response = service.GetXur(definitions: true);
+            //var response = service.GetXur(definitions: true);
             //var response = service.SearchItems(definitions: true);
             //var response = service.SearchPlayers(type, "kodefuguru");
             //var response = service.SearchTalentNodeSteps(definitions: true);

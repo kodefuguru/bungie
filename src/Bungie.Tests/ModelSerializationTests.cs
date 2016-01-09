@@ -429,8 +429,7 @@
             result.Should().NotBeNull();
             result.EventSet.Should().NotBeNull();
             result.EventSet.Events.Should().NotBeNull();
-            //TODO: Need to get result when event is running
-            //result.EventSet.Events.Should().NotBeEmpty();
+            result.EventSet.Events.Should().NotBeEmpty();
         }
 
         [Test]
