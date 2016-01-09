@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78355549-4C0C-4197-9DAF-929EDB148B77}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bungie.Tests</RootNamespace>
+    <AssemblyName>Bungie.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentAssertions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentAssertions.4.1.1\lib\net45\FluentAssertions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FluentAssertions.Core, Version=4.1.1.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentAssertions.4.1.1\lib\net45\FluentAssertions.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Gallio, Version=3.4.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Gallio_MbUnit.3.4.14.0\lib\net40\Gallio.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Gallio40, Version=3.4.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Gallio_MbUnit.3.4.14.0\lib\net40\Gallio40.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MbUnit, Version=3.4.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Gallio_MbUnit.3.4.14.0\lib\net40\MbUnit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MbUnit40, Version=3.4.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Gallio_MbUnit.3.4.14.0\lib\net40\MbUnit40.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ModelSerializationTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wrappers\AbstractData.cs" />
+    <Compile Include="Wrappers\AbstractMessage.cs" />
+    <Compile Include="Wrappers\Data.cs" />
+    <Compile Include="Wrappers\Message.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <EmbeddedResource Include="Responses\EquipItems.json" />
+    <EmbeddedResource Include="Responses\GetAccount.json" />
+    <EmbeddedResource Include="Responses\GetAccountSummary.json" />
+    <EmbeddedResource Include="Responses\GetActivities.json" />
+    <EmbeddedResource Include="Responses\GetAdvisorsForCharacter.json" />
+    <EmbeddedResource Include="Responses\GetAdvisors.json" />
+    <EmbeddedResource Include="Responses\GetAggregateActivityStats.json" />
+    <EmbeddedResource Include="Responses\GetCharacterActivities.json" />
+    <EmbeddedResource Include="Responses\GetCharacterInventory.json" />
+    <EmbeddedResource Include="Responses\GetCharacterProgression.json" />
+    <EmbeddedResource Include="Responses\GetCharacter.json" />
+    <EmbeddedResource Include="Responses\GetCharacterSummary.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForInventoryItem.json" />
+    <EmbeddedResource Include="Responses\GetEvents.json" />
+    <EmbeddedResource Include="Responses\GetExcellenceBadges.json" />
+    <EmbeddedResource Include="Responses\GetGrimoireByMembership.json" />
+    <EmbeddedResource Include="Responses\GetGrimoireDefinition.json" />
+    <EmbeddedResource Include="Responses\GetGrimoire.json" />
+    <EmbeddedResource Include="Responses\GetStatsDefinition.json" />
+    <EmbeddedResource Include="Responses\GetStatsForAccount.json" />
+    <EmbeddedResource Include="Responses\GetStatsForCharacter.json" />
+    <EmbeddedResource Include="Responses\GetItemDetail.json" />
+    <EmbeddedResource Include="Responses\GetLeaderboardsForCharacter.json" />
+    <EmbeddedResource Include="Responses\GetLeaderboardsForPsn.json" />
+    <EmbeddedResource Include="Responses\GetLeaderboards.json" />
+    <EmbeddedResource Include="Responses\GetLiveTiles.json" />
+    <EmbeddedResource Include="Responses\GetManifest.json" />
+    <EmbeddedResource Include="Responses\GetMembershipIdByDisplayName.json" />
+    <EmbeddedResource Include="Responses\GetPostGameCarnageReport.json" />
+    <EmbeddedResource Include="Responses\GetSpecialEventAdvisors.json" />
+    <EmbeddedResource Include="Responses\GetTalentNodeSteps.json" />
+    <EmbeddedResource Include="Responses\GetTriumphs.json" />
+    <EmbeddedResource Include="Responses\GetUniqueWeaponsStats.json" />
+    <EmbeddedResource Include="Responses\GetVault.json" />
+    <EmbeddedResource Include="Responses\GetVendorForCharacter.json" />
+    <EmbeddedResource Include="Responses\GetVendorForCharacterWithMetadata.json" />
+    <EmbeddedResource Include="Responses\GetVendorItemDetailForCharacter.json" />
+    <EmbeddedResource Include="Responses\GetVendorItemDetailForCharacterWithMetadata.json" />
+    <EmbeddedResource Include="Responses\GetVendor.json" />
+    <EmbeddedResource Include="Responses\GetVendorSummariesForCharacter.json" />
+    <EmbeddedResource Include="Responses\GetVendorWithMetadata.json" />
+    <EmbeddedResource Include="Responses\GetXur.json" />
+    <EmbeddedResource Include="Responses\SearchItems.json" />
+    <EmbeddedResource Include="Responses\SearchPlayers.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForInventoryBucket.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForActivityType.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForVendor.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForStatGroup.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForTalentGrid.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForStat.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForRace.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForProgression.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForGender.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForClass.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForActivity.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForGearAsset.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForActivityBundle.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForArtDyeChannel.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForArtDye.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForSandboxPerk.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForMaterialRequirement.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForDirectorBook.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForDestination.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForUnlockFlag.json" />
+    <EmbeddedResource Include="Responses\GetDefinitionForPlace.json" />
+    <EmbeddedResource Include="Responses\SearchTalentNodeSteps.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bungie\Bungie.csproj">
+      <Project>{8d7e5650-5e9b-4651-891b-20e021a7f510}</Project>
+      <Name>Bungie</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

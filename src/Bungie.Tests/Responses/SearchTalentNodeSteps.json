@@ -1,0 +1,287 @@
+﻿{
+	"Response" : {
+		"data" : {
+			"stepHashes" : [1238010721, 3661313476, 1647823253, 2566252091, 3962726128, 2707746729, 2803404526, 186107093, 4245049540, 2911659040],
+			"totalResults" : "717",
+			"hasMore" : true,
+			"query" : {
+				"itemsPerPage" : 10,
+				"currentPage" : 0
+			},
+			"useTotalResults" : true
+		},
+		"definitions" : {
+			"nodeSteps" : {
+				"1238010721" : {
+					"nodeStepHash" : 1238010721,
+					"nodeStepName" : "Accelerant",
+					"nodeStepDescription" : "Unlocks the Sunbreaker subclass node Explosive Pyre for free. Enemies brought down by your hammer explode, chaining fiery Solar damage to other enemies.",
+					"icon" : "/common/destiny_content/icons/f2b5b179c0d445376fce3e01d6e41394.png",
+					"perkHashes" : [136095187],
+					"statHashes" : [],
+					"affectsQuality" : false,
+					"hash" : 1238010721,
+					"index" : 0
+				},
+				"3661313476" : {
+					"nodeStepHash" : 3661313476,
+					"nodeStepName" : "Accelerated Coils",
+					"nodeStepDescription" : "Reduces weapon charge time in exchange for slightly decreased damage.",
+					"icon" : "/common/destiny_content/icons/e0affcfddd4e01a484982350a63543e6.png",
+					"perkHashes" : [],
+					"statHashes" : [2961396640],
+					"affectsQuality" : false,
+					"stepGroups" : {
+						"weaponPerformance" : 4096,
+						"impactEffects" : 0,
+						"guardianAttributes" : 0,
+						"lightAbilities" : 0,
+						"damageTypes" : 0
+					},
+					"hash" : 3661313476,
+					"index" : 0
+				},
+				"1647823253" : {
+					"nodeStepHash" : 1647823253,
+					"nodeStepName" : "Accurized Ballistics",
+					"nodeStepDescription" : "More range and impact.\nIncreased recoil.",
+					"icon" : "/common/destiny_content/icons/ef9e1284395c86277c5e8ca8bb7a7671.png",
+					"perkHashes" : [2868044506],
+					"statHashes" : [1240592695, 4043523819, 155624089, 1345609583],
+					"affectsQuality" : false,
+					"stepGroups" : {
+						"weaponPerformance" : 44,
+						"impactEffects" : 0,
+						"guardianAttributes" : 0,
+						"lightAbilities" : 0,
+						"damageTypes" : 0
+					},
+					"hash" : 1647823253,
+					"index" : 0
+				},
+				"2566252091" : {
+					"nodeStepHash" : 2566252091,
+					"nodeStepName" : "Activate IKELOS",
+					"nodeStepDescription" : "Upgrades laser to allow multiple ricochets on hard surfaces.",
+					"icon" : "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png",
+					"perkHashes" : [4027173315],
+					"statHashes" : [],
+					"affectsQuality" : false,
+					"hash" : 2566252091,
+					"index" : 0
+				},
+				"3962726128" : {
+					"nodeStepHash" : 3962726128,
+					"nodeStepName" : "Activate Transceiver",
+					"nodeStepDescription" : "PREREQUISITES PASSED....\nK432 BEACON ENABLED...",
+					"icon" : "/common/destiny_content/icons/56bf5c700e68f87da625444fb2af3331.png",
+					"perkHashes" : [],
+					"statHashes" : [],
+					"affectsQuality" : false,
+					"hash" : 3962726128,
+					"index" : 0
+				},
+				"2707746729" : {
+					"nodeStepHash" : 2707746729,
+					"nodeStepName" : "Aftermath",
+					"nodeStepDescription" : "Fist of Havoc leaves a damage-dealing field in its wake.",
+					"icon" : "/common/destiny_content/icons/93d1b78b983edb8be7459fc0350465fc.png",
+					"perkHashes" : [],
+					"statHashes" : [],
+					"affectsQuality" : false,
+					"hash" : 2707746729,
+					"index" : 0
+				},
+				"2803404526" : {
+					"nodeStepHash" : 2803404526,
+					"nodeStepName" : "Aftershocks",
+					"nodeStepDescription" : "Increases the duration of Pulse Grenade, Lightning Grenade, and Aftermath.",
+					"icon" : "/common/destiny_content/icons/0e1c2a71d77eae15a10d6ea9b607dedf.png",
+					"perkHashes" : [],
+					"statHashes" : [],
+					"affectsQuality" : false,
+					"hash" : 2803404526,
+					"index" : 0
+				},
+				"186107093" : {
+					"nodeStepHash" : 186107093,
+					"nodeStepName" : "Aggressive Ballistics",
+					"nodeStepDescription" : "More predictable recoil. \nEnhanced impact. \nShorter range and more recoil.",
+					"icon" : "/common/destiny_content/icons/ac2b5833a13462bd4ec80a1bfa65a6d3.png",
+					"perkHashes" : [3097446979],
+					"statHashes" : [1240592695, 4043523819, 2715839340, 155624089, 1345609583],
+					"affectsQuality" : false,
+					"stepGroups" : {
+						"weaponPerformance" : 44,
+						"impactEffects" : 0,
+						"guardianAttributes" : 0,
+						"lightAbilities" : 0,
+						"damageTypes" : 0
+					},
+					"hash" : 186107093,
+					"index" : 0
+				},
+				"4245049540" : {
+					"nodeStepHash" : 4245049540,
+					"nodeStepName" : "Aggressive Launch",
+					"nodeStepDescription" : "More predictable recoil. \nEnhanced Blast Radius. \nReduced Velocity and more recoil.",
+					"icon" : "/common/destiny_content/icons/b38c87e1b050ed6f8a3784d618a598d5.png",
+					"perkHashes" : [3097446979],
+					"statHashes" : [2523465841, 3614673599, 2715839340, 155624089, 1345609583],
+					"affectsQuality" : false,
+					"stepGroups" : {
+						"weaponPerformance" : 1060,
+						"impactEffects" : 0,
+						"guardianAttributes" : 0,
+						"lightAbilities" : 0,
+						"damageTypes" : 0
+					},
+					"hash" : 4245049540,
+					"index" : 0
+				},
+				"2911659040" : {
+					"nodeStepHash" : 2911659040,
+					"nodeStepName" : "Air Control",
+					"nodeStepDescription" : "Use  to pitch the Sparrow forward or back while in the air. Pitch forward to fall faster, pitch back to fall slower.",
+					"icon" : "/common/destiny_content/icons/3145f2b61ff77a88445e2773b802f500.png",
+					"perkHashes" : [653222695],
+					"statHashes" : [],
+					"affectsQuality" : false,
+					"hash" : 2911659040,
+					"index" : 0
+				}
+			},
+			"perks" : {
+				"136095187" : {
+					"perkHash" : 136095187,
+					"displayName" : "Accelerant",
+					"displayDescription" : "Grants Explosive Pyre.",
+					"displayIcon" : "/common/destiny_content/icons/f2b5b179c0d445376fce3e01d6e41394.png",
+					"isDisplayable" : true,
+					"hash" : 136095187,
+					"index" : 0
+				},
+				"2868044506" : {
+					"perkHash" : 2868044506,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2868044506,
+					"index" : 0
+				},
+				"4027173315" : {
+					"perkHash" : 4027173315,
+					"displayName" : "Activate IKELOS",
+					"displayDescription" : "Upgrades laser to allow multiple ricochets on hard surfaces.",
+					"displayIcon" : "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png",
+					"isDisplayable" : true,
+					"hash" : 4027173315,
+					"index" : 0
+				},
+				"3097446979" : {
+					"perkHash" : 3097446979,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 3097446979,
+					"index" : 0
+				},
+				"653222695" : {
+					"perkHash" : 653222695,
+					"displayName" : "Air Control",
+					"displayDescription" : "Use  to pitch the Sparrow forward or back while in the air. Pitch forward to fall faster, pitch back to fall slower.",
+					"displayIcon" : "/common/destiny_content/icons/3145f2b61ff77a88445e2773b802f500.png",
+					"isDisplayable" : true,
+					"hash" : 653222695,
+					"index" : 0
+				}
+			},
+			"stats" : {
+				"2961396640" : {
+					"statHash" : 2961396640,
+					"statName" : "Charge Rate",
+					"statDescription" : "Rate at which the weapon charges.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_CHARGE_TIME",
+					"interpolate" : false,
+					"hash" : 2961396640,
+					"index" : 0
+				},
+				"1240592695" : {
+					"statHash" : 1240592695,
+					"statName" : "Range",
+					"statDescription" : "Increases the effective range of this weapon.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_RANGE",
+					"interpolate" : false,
+					"hash" : 1240592695,
+					"index" : 0
+				},
+				"4043523819" : {
+					"statHash" : 4043523819,
+					"statName" : "Impact",
+					"statDescription" : "Increases the damage inflicted by each round.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_BASE_DAMAGE",
+					"interpolate" : false,
+					"hash" : 4043523819,
+					"index" : 0
+				},
+				"155624089" : {
+					"statHash" : 155624089,
+					"statName" : "Stability",
+					"statDescription" : "Decreases weapon recoil when fired continuously.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_STABILITY",
+					"interpolate" : false,
+					"hash" : 155624089,
+					"index" : 0
+				},
+				"1345609583" : {
+					"statHash" : 1345609583,
+					"statName" : "Aim assistance",
+					"statDescription" : "The weapon's ability to augment your aim.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_AIM_ASSISTANCE",
+					"interpolate" : false,
+					"hash" : 1345609583,
+					"index" : 0
+				},
+				"2715839340" : {
+					"statHash" : 2715839340,
+					"statName" : "Recoil direction",
+					"statDescription" : "The weapon's tendency to move while firing.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_RECOIL_DIRECTION",
+					"interpolate" : false,
+					"hash" : 2715839340,
+					"index" : 0
+				},
+				"2523465841" : {
+					"statHash" : 2523465841,
+					"statName" : "Velocity",
+					"statDescription" : "Increases the speed of projectiles fired by this weapon.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_PROJECTILE_SPEED",
+					"interpolate" : false,
+					"hash" : 2523465841,
+					"index" : 0
+				},
+				"3614673599" : {
+					"statHash" : 3614673599,
+					"statName" : "Blast Radius",
+					"statDescription" : "Increases the explosion radius of this weapon.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_BLAST_RADIUS",
+					"interpolate" : false,
+					"hash" : 3614673599,
+					"index" : 0
+				}
+			}
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

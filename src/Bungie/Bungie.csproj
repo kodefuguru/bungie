@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D7E5650-5E9B-4651-891B-20E021A7F510}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bungie</RootNamespace>
+    <AssemblyName>Bungie</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkProfile>Profile259</TargetFrameworkProfile>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Bucket.cs" />
+    <Compile Include="BungieService.cs" />
+    <Compile Include="CharacterClass.cs" />
+    <Compile Include="Definitions\Activity.cs" />
+    <Compile Include="Definitions\ActivityBundle.cs" />
+    <Compile Include="Definitions\ActivityType.cs" />
+    <Compile Include="Definitions\Arrangement.cs" />
+    <Compile Include="Definitions\Badge.cs" />
+    <Compile Include="Definitions\Bucket.cs" />
+    <Compile Include="Definitions\Class.cs" />
+    <Compile Include="Definitions\DamageType.cs" />
+    <Compile Include="Definitions\Definitions.cs" />
+    <Compile Include="Definitions\Destination.cs" />
+    <Compile Include="Definitions\Dye.cs" />
+    <Compile Include="Definitions\DyeExpression.cs" />
+    <Compile Include="Definitions\EnemyRace.cs" />
+    <Compile Include="Definitions\EquippingBlock.cs" />
+    <Compile Include="Definitions\ExclusiveSet.cs" />
+    <Compile Include="Definitions\Faction.cs" />
+    <Compile Include="Definitions\Flag.cs" />
+    <Compile Include="Definitions\Gender.cs" />
+    <Compile Include="Definitions\MaterialRequirement.cs" />
+    <Compile Include="Definitions\MaterialRequirementSet.cs" />
+    <Compile Include="Definitions\RequestedDefinition.cs" />
+    <Compile Include="Definitions\Item.cs" />
+    <Compile Include="Definitions\ItemCategory.cs" />
+    <Compile Include="Definitions\ItemSource.cs" />
+    <Compile Include="Definitions\ComputedStat.cs" />
+    <Compile Include="Definitions\Objective.cs" />
+    <Compile Include="Definitions\Perk.cs" />
+    <Compile Include="Definitions\Groups.cs" />
+    <Compile Include="Definitions\Place.cs" />
+    <Compile Include="Definitions\Progression.cs" />
+    <Compile Include="Definitions\ProgressionStep.cs" />
+    <Compile Include="Definitions\Race.cs" />
+    <Compile Include="Definitions\Reward.cs" />
+    <Compile Include="Definitions\RewardItem.cs" />
+    <Compile Include="Definitions\ScaledStat.cs" />
+    <Compile Include="Definitions\ScriptedSkull.cs" />
+    <Compile Include="Definitions\Source.cs" />
+    <Compile Include="Definitions\StatGroup.cs" />
+    <Compile Include="Definitions\TalentGrid.cs" />
+    <Compile Include="Definitions\TalentGridNode.cs" />
+    <Compile Include="Definitions\TalentGridNodeStep.cs" />
+    <Compile Include="Definitions\ActivationRequirement.cs" />
+    <Compile Include="Definitions\Triumph.cs" />
+    <Compile Include="Definitions\TriumphSet.cs" />
+    <Compile Include="Definitions\VendorCategory.cs" />
+    <Compile Include="Definitions\VendorDetailCategory.cs" />
+    <Compile Include="Definitions\VendorDetail.cs" />
+    <Compile Include="Definitions\VendorDetailSummary.cs" />
+    <Compile Include="Definitions\WeaponStat.cs" />
+    <Compile Include="Definitions\WeightedValue.cs" />
+    <Compile Include="DefinitionType.cs" />
+    <Compile Include="DestinyService.cs" />
+    <Compile Include="GenderType.cs" />
+    <Compile Include="HashMap.cs" />
+    <Compile Include="IDestinyService.cs" />
+    <Compile Include="Models\Activity.cs" />
+    <Compile Include="Models\ActivityEntry.cs" />
+    <Compile Include="Models\ActivityEntryExtended.cs" />
+    <Compile Include="Models\ItemSearch.cs" />
+    <Compile Include="Models\SaleItemCategory.cs" />
+    <Compile Include="Models\Search.cs" />
+    <Compile Include="Models\SearchQuery.cs" />
+    <Compile Include="Models\TalentNodeStepsSearch.cs" />
+    <Compile Include="Models\Vendor.cs" />
+    <Compile Include="Models\VendorWithMetadata.cs" />
+    <Compile Include="Models\WeaponsStats.cs" />
+    <Compile Include="Models\WeaponStats.cs" />
+    <Compile Include="Models\ExtendedActivityStats.cs" />
+    <Compile Include="Models\ItemDetail.cs" />
+    <Compile Include="Models\MergedStats.cs" />
+    <Compile Include="Models\Player.cs" />
+    <Compile Include="Models\PveStats.cs" />
+    <Compile Include="Models\StatsCharacter.cs" />
+    <Compile Include="Models\StatsCharacterResults.cs" />
+    <Compile Include="Models\StatsMergedCharacter.cs" />
+    <Compile Include="Models\TalentNode.cs" />
+    <Compile Include="Models\ItemDetailStat.cs" />
+    <Compile Include="Models\TalentNodeStats.cs" />
+    <Compile Include="Models\UserInfo.cs" />
+    <Compile Include="Models\WeaponStat.cs" />
+    <Compile Include="RaceType.cs" />
+    <Compile Include="Responses\DefinitionsResponse.cs" />
+    <Compile Include="Responses\GetAccountSummaryResponse.cs" />
+    <Compile Include="Models\AccountSummary.cs" />
+    <Compile Include="Models\ActivityType.cs" />
+    <Compile Include="Models\ActivityBundle.cs" />
+    <Compile Include="Models\ActivitySummary.cs" />
+    <Compile Include="Models\AllTimeStats.cs" />
+    <Compile Include="Models\PatrolStats.cs" />
+    <Compile Include="Models\PvpStats.cs" />
+    <Compile Include="Models\RaidStats.cs" />
+    <Compile Include="Models\Stat.cs" />
+    <Compile Include="Models\StatValue.cs" />
+    <Compile Include="Models\EventSet.cs" />
+    <Compile Include="Models\AggregateActivities.cs" />
+    <Compile Include="Models\AggregateActivity.cs" />
+    <Compile Include="Models\ArmsDay.cs" />
+    <Compile Include="Models\ArmsDayOrder.cs" />
+    <Compile Include="Models\ArmsDayRedemption.cs" />
+    <Compile Include="Models\Author.cs" />
+    <Compile Include="Models\Card.cs" />
+    <Compile Include="Models\CardBonus.cs" />
+    <Compile Include="Models\CardBrief.cs" />
+    <Compile Include="Definitions\Card.cs" />
+    <Compile Include="Models\CardRank.cs" />
+    <Compile Include="Definitions\CardRank.cs" />
+    <Compile Include="Models\CardStatistic.cs" />
+    <Compile Include="Definitions\CardStatistic.cs" />
+    <Compile Include="Models\CharacterSummary.cs" />
+    <Compile Include="Models\CommentSummary.cs" />
+    <Compile Include="Models\Content.cs" />
+    <Compile Include="Models\ContentRepresentation.cs" />
+    <Compile Include="Models\ContentSet.cs" />
+    <Compile Include="Models\ContentSetProperties.cs" />
+    <Compile Include="Models\DailyChapter.cs" />
+    <Compile Include="Models\DailyCrucible.cs" />
+    <Compile Include="Models\ExcellenceBadge.cs" />
+    <Compile Include="Models\ExcellenceBadges.cs" />
+    <Compile Include="Models\Grimoire.cs" />
+    <Compile Include="Models\HeroicStrike.cs" />
+    <Compile Include="Models\HeroicStrikeActivity.cs" />
+    <Compile Include="Definitions\Stat.cs" />
+    <Compile Include="Models\GameStats.cs" />
+    <Compile Include="Responses\GetActivitiesResponse.cs" />
+    <Compile Include="Responses\GetDefinitionResponse.cs" />
+    <Compile Include="Responses\GetStatsDefinitionResponse.cs" />
+    <Compile Include="Models\InventorySummary.cs" />
+    <Compile Include="Models\ItemObjective.cs" />
+    <Compile Include="Models\LiveTile.cs" />
+    <Compile Include="Models\LiveTileProperties.cs" />
+    <Compile Include="Models\Manifest.cs" />
+    <Compile Include="Models\MobileGearAssetDataBase.cs" />
+    <Compile Include="Models\MobileGearCdn.cs" />
+    <Compile Include="Models\StoryStats.cs" />
+    <Compile Include="Models\StrikesStats.cs" />
+    <Compile Include="Models\Triumph.cs" />
+    <Compile Include="Models\Triumphs.cs" />
+    <Compile Include="Models\TriumphSet.cs" />
+    <Compile Include="Models\Nightfall.cs" />
+    <Compile Include="Models\NightfallActivity.cs" />
+    <Compile Include="Definitions\Page.cs" />
+    <Compile Include="Definitions\Theme.cs" />
+    <Compile Include="Definitions\ImagePack.cs" />
+    <Compile Include="Definitions\Grimoire.cs" />
+    <Compile Include="Models\TieredActivityBundle.cs" />
+    <Compile Include="Models\VendorReceipt.cs" />
+    <Compile Include="Models\WeeklyCrucible.cs" />
+    <Compile Include="Responses\GetAccountResponse.cs" />
+    <Compile Include="Responses\GetAdvisorsResponse.cs" />
+    <Compile Include="Responses\GetAggregateActivityStatsResponse.cs" />
+    <Compile Include="Responses\GetCharacterActivitiesResponse.cs" />
+    <Compile Include="Responses\GetCharacterInventoryResponse.cs" />
+    <Compile Include="Responses\GetCharacterProgressionResponse.cs" />
+    <Compile Include="Responses\GetCharacterSummaryResponse.cs" />
+    <Compile Include="Responses\GetEventsResponse.cs" />
+    <Compile Include="Responses\GetExcellenceBadgesResponse.cs" />
+    <Compile Include="Responses\GetGrimoireDefinitionResponse.cs" />
+    <Compile Include="Responses\GetGrimoireByMembershipResponse.cs" />
+    <Compile Include="Responses\GetStatsForAccountResponse.cs" />
+    <Compile Include="Responses\GetStatsForCharacter.cs" />
+    <Compile Include="Responses\GetItemDetailResponse.cs" />
+    <Compile Include="Responses\GetLiveTilesResponse.cs" />
+    <Compile Include="Responses\GetManifestResponse.cs" />
+    <Compile Include="Responses\GetPostGameCarnageReportResponse.cs" />
+    <Compile Include="Responses\GetTriumphsResponse.cs" />
+    <Compile Include="Responses\GetUniqueWeaponsStatsResponse.cs" />
+    <Compile Include="Responses\GetVendorResponse.cs" />
+    <Compile Include="Responses\GetVendorWithMetadataResponse.cs" />
+    <Compile Include="Responses\GetXurResponse.cs" />
+    <Compile Include="Responses\SearchItemsResponse.cs" />
+    <Compile Include="Responses\SearchPlayersResponse.cs" />
+    <Compile Include="Responses\SearchTalentNodeStepsResponse.cs" />
+    <Compile Include="Unknown.cs" />
+    <Compile Include="NotAuthenticatedException.cs" />
+    <Compile Include="Responses\Message.cs" />
+    <Compile Include="Responses\AbstractMessage.cs" />
+    <Compile Include="TrackState.cs" />
+    <Compile Include="ItemType.cs" />
+    <Compile Include="LockState.cs" />
+    <Compile Include="Models\Account.cs" />
+    <Compile Include="Models\CharacterActivities.cs" />
+    <Compile Include="Models\CharacterActivity.cs" />
+    <Compile Include="Models\ActivityAdvisor.cs" />
+    <Compile Include="Models\ActivityDetails.cs" />
+    <Compile Include="Models\ActivityPage.cs" />
+    <Compile Include="Models\ActivityStats.cs" />
+    <Compile Include="Models\Advisors.cs" />
+    <Compile Include="Models\ArenaActivity.cs" />
+    <Compile Include="Models\ArenaRound.cs" />
+    <Compile Include="Models\Bonus.cs" />
+    <Compile Include="Models\BonusRank.cs" />
+    <Compile Include="Models\Character.cs" />
+    <Compile Include="Models\CharacterBase.cs" />
+    <Compile Include="Models\CharacterCustomization.cs" />
+    <Compile Include="Models\CharacterProgression.cs" />
+    <Compile Include="Models\CharacterStat.cs" />
+    <Compile Include="Models\CharacterStats.cs" />
+    <Compile Include="Models\Currency.cs" />
+    <Compile Include="ActivityMode.cs" />
+    <Compile Include="Models\Dye.cs" />
+    <Compile Include="Models\Equipment.cs" />
+    <Compile Include="Models\EquipResult.cs" />
+    <Compile Include="Models\Event.cs" />
+    <Compile Include="Models\Faction.cs" />
+    <Compile Include="Models\Image.cs" />
+    <Compile Include="Models\CharacterInventory.cs" />
+    <Compile Include="Models\InventoryBucket.cs" />
+    <Compile Include="Models\InventoryBuckets.cs" />
+    <Compile Include="Models\Item.cs" />
+    <Compile Include="Models\ItemCost.cs" />
+    <Compile Include="Models\ItemNode.cs" />
+    <Compile Include="Models\ItemPerk.cs" />
+    <Compile Include="Models\ItemStat.cs" />
+    <Compile Include="Models\MaterialUpgrades.cs" />
+    <Compile Include="MembershipType.cs" />
+    <Compile Include="Models\NodeStates.cs" />
+    <Compile Include="Models\PeerView.cs" />
+    <Compile Include="Models\Progression.cs" />
+    <Compile Include="Models\RaidActivities.cs" />
+    <Compile Include="Models\RaidActivity.cs" />
+    <Compile Include="Models\Rect.cs" />
+    <Compile Include="Models\RewardClaimSale.cs" />
+    <Compile Include="Models\SaleItem.cs" />
+    <Compile Include="Models\Summary.cs" />
+    <Compile Include="Models\Trials.cs" />
+    <Compile Include="Models\TrialsBuff.cs" />
+    <Compile Include="Models\TrialsTicket.cs" />
+    <Compile Include="Models\TrialsWinDetails.cs" />
+    <Compile Include="Models\UnlockStatus.cs" />
+    <Compile Include="Models\VendorAdvisor.cs" />
+    <Compile Include="Models\VendorItem.cs" />
+    <Compile Include="OrderBy.cs" />
+    <Compile Include="PeriodType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ItemSubtype.cs" />
+    <Compile Include="Rarity.cs" />
+    <Compile Include="StatsGroup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="..\BaseJump\BaseJump.projitems" Label="Shared" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

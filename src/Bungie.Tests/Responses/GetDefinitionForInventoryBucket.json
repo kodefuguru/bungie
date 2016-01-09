@@ -1,0 +1,57 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 1469714392,
+			"inventoryBucket" : {
+				"bucketHash" : 1469714392,
+				"bucketName" : "Consumables",
+				"bucketDescription" : "Supplies and materials used in the field.",
+				"scope" : 0,
+				"category" : 1,
+				"bucketOrder" : 30,
+				"bucketIdentifier" : "BUCKET_CONSUMABLES",
+				"itemCount" : 20,
+				"location" : 1,
+				"hasTransferDestination" : true,
+				"enabled" : true,
+				"hash" : 1469714392,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

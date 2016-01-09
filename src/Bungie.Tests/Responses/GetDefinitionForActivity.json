@@ -1,0 +1,172 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 3120351941,
+			"activity" : {
+				"activityHash" : 3120351941,
+				"activityName" : "Siege of the Warmind",
+				"activityDescription" : "Find Rasputin's bunker. Defend it against the Hive attack.",
+				"icon" : "/common/destiny_content/icons/e9cb1e573d34c470fb91d9bd6c4c402f.png",
+				"releaseIcon" : "/common/destiny_content/icons/04b189b85e9dc456822ddef47285ecc0.png",
+				"releaseTime" : 0,
+				"activityLevel" : 12,
+				"completionFlagHash" : 1669839107,
+				"activityPower" : 0.0,
+				"minParty" : 1,
+				"maxParty" : 3,
+				"maxPlayers" : 3,
+				"destinationHash" : 3393213630,
+				"placeHash" : 3747705955,
+				"activityTypeHash" : 1686739444,
+				"tier" : 1,
+				"pgcrImage" : "/img/theme/destiny/bgs/pgcrs/story_seige_of_the_warmind.jpg",
+				"rewards" : [{
+						"rewardItems" : [{
+								"itemHash" : 1315532320,
+								"value" : 0
+							}
+						]
+					}
+				],
+				"skulls" : [],
+				"isPlaylist" : false,
+				"hash" : 3120351941,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {
+				"3393213630" : {
+					"destinationHash" : 3393213630,
+					"destinationName" : "Old Russia, Earth",
+					"destinationDescription" : "The cradle of humanity - a world of ancient glory, waiting to be retaken.",
+					"icon" : "/common/destiny_content/icons/51bfee9018337b37f05e5707bec862e1.jpg",
+					"placeHash" : 3747705955,
+					"destinationIdentifier" : "DESTINATION_COSMO0",
+					"locationIdentifier" : "LOCATION_EARTH",
+					"hash" : 3393213630,
+					"index" : 0
+				}
+			},
+			"places" : {
+				"3747705955" : {
+					"placeHash" : 3747705955,
+					"placeName" : "Earth",
+					"placeDescription" : "Mankind's cradle, full of shattered glory, ready to be reclaimed.",
+					"icon" : "/img/misc/missing_icon.png",
+					"hash" : 3747705955,
+					"index" : 0
+				}
+			},
+			"activityTypes" : {
+				"1686739444" : {
+					"activityTypeHash" : 1686739444,
+					"identifier" : "ACTIVITY_TYPE_STORY",
+					"activityTypeName" : "Story",
+					"activityTypeDescription" : "Embark on adventures alone or with a fireteam to push back the Darkness and reclaim our lost worlds.",
+					"icon" : "/common/destiny_content/icons/e9cb1e573d34c470fb91d9bd6c4c402f.png",
+					"activeBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Active/ministory.png",
+					"completedBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Completed/ministory.png",
+					"hiddenOverrideVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Hidden/ministory.png",
+					"tooltipBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Tooltip/ministory.png",
+					"enlargedActiveBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Active/story.png",
+					"enlargedCompletedBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Completed/story.png",
+					"enlargedHiddenOverrideVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Hidden/story.png",
+					"enlargedTooltipBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Tooltip/story.png",
+					"order" : 1,
+					"hash" : 1686739444,
+					"index" : 0
+				}
+			},
+			"items" : {
+				"1315532320" : {
+					"itemHash" : 1315532320,
+					"itemName" : "XP Bonus",
+					"icon" : "/common/destiny_content/icons/c82ae033e6480fa9c36fab61d7d3c978.png",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "",
+					"actionDescription" : "",
+					"hasAction" : false,
+					"deleteOnAction" : false,
+					"tierTypeName" : "Common",
+					"tierType" : 2,
+					"bucketTypeHash" : 3621873013,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 0,
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : false,
+					"instanced" : false,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"itemCategoryHashes" : [],
+					"sourceHashes" : [],
+					"nonTransferrable" : true,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 1315532320,
+					"index" : 0
+				}
+			},
+			"buckets" : {
+				"3621873013" : {
+					"bucketHash" : 3621873013,
+					"scope" : 0,
+					"category" : 0,
+					"bucketOrder" : 0,
+					"bucketIdentifier" : "BUCKET_HIDDEN",
+					"itemCount" : 1,
+					"location" : 1,
+					"hasTransferDestination" : false,
+					"enabled" : false,
+					"hash" : 3621873013,
+					"index" : 0
+				}
+			},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

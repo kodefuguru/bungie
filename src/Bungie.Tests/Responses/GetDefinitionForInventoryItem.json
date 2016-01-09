@@ -1,0 +1,164 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 705234570,
+			"inventoryItem" : {
+				"itemHash" : 705234570,
+				"itemName" : "Primary Telemetry",
+				"itemDescription" : "A Ghost telemetry link that accelerates the development of your upgradeable Primary weapons. Lasts 30 minutes.",
+				"icon" : "/common/destiny_content/icons/e55926f2bb0d6d2e655f76989f8d8d33.jpg",
+				"secondaryIcon" : "/img/misc/missing_icon.png",
+				"actionName" : "Use",
+				"hasAction" : true,
+				"deleteOnAction" : true,
+				"tierTypeName" : "Common",
+				"tierType" : 2,
+				"itemTypeName" : "Consumable",
+				"bucketTypeHash" : 1469714392,
+				"primaryBaseStatHash" : 0,
+				"stats" : {},
+				"perkHashes" : [],
+				"specialItemType" : 0,
+				"talentGridHash" : 0,
+				"hasGeometry" : false,
+				"statGroupHash" : 0,
+				"itemLevels" : [],
+				"qualityLevel" : 0,
+				"equippable" : false,
+				"instanced" : false,
+				"rewardItemHash" : 0,
+				"values" : {},
+				"itemType" : 9,
+				"itemSubType" : 0,
+				"classType" : 3,
+				"sources" : [{
+						"expansionIndex" : 0,
+						"level" : 0,
+						"minQuality" : 0,
+						"maxQuality" : 0,
+						"minLevelRequired" : 0,
+						"maxLevelRequired" : 0,
+						"exclusivity" : 0,
+						"computedStats" : {},
+						"sourceHashes" : [299200664, 460228854],
+						"spawnIndexes" : [0]
+					}
+				],
+				"itemCategoryHashes" : [35, 52],
+				"sourceHashes" : [299200664, 460228854],
+				"nonTransferrable" : false,
+				"exclusive" : 0,
+				"maxStackSize" : 999999,
+				"itemIndex" : 0,
+				"setItemHashes" : [],
+				"questlineItemHash" : 0,
+				"needsFullCompletion" : false,
+				"objectiveHashes" : [],
+				"allowActions" : true,
+				"questTrackingUnlockValueHash" : 0,
+				"bountyResetUnlockHash" : 0,
+				"hash" : 705234570,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {
+				"1469714392" : {
+					"bucketHash" : 1469714392,
+					"bucketName" : "Consumables",
+					"bucketDescription" : "Supplies and materials used in the field.",
+					"scope" : 0,
+					"category" : 1,
+					"bucketOrder" : 30,
+					"bucketIdentifier" : "BUCKET_CONSUMABLES",
+					"itemCount" : 20,
+					"location" : 1,
+					"hasTransferDestination" : true,
+					"enabled" : true,
+					"hash" : 1469714392,
+					"index" : 0
+				}
+			},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {
+				"35" : {
+					"itemCategoryHash" : 35,
+					"identifier" : "CATEGORY_CONSUMABLE",
+					"visible" : false,
+					"title" : "Consumables",
+					"shortTitle" : "Consumables",
+					"description" : "Ammo, upgrades and powerups.",
+					"grantDestinyItemType" : 0,
+					"grantDestinySubType" : 0,
+					"grantDestinyClass" : 0,
+					"hash" : 35,
+					"index" : 0
+				},
+				"52" : {
+					"itemCategoryHash" : 52,
+					"identifier" : "CATEGORY_INVENTORY",
+					"visible" : false,
+					"title" : "Inventory",
+					"shortTitle" : "Inventory",
+					"description" : "",
+					"grantDestinyItemType" : 0,
+					"grantDestinySubType" : 0,
+					"grantDestinyClass" : 0,
+					"hash" : 52,
+					"index" : 0
+				}
+			},
+			"sources" : {
+				"299200664" : {
+					"sourceHash" : 299200664,
+					"category" : 2,
+					"identifier" : "SOURCE_VENDOR_GUNSMITH",
+					"sourceName" : "Gunsmith",
+					"description" : "Banshee-44, the Gunsmith, sometimes sells this item in the Tower.",
+					"icon" : "/img/destiny_content/sources/109120_sm.png",
+					"hash" : 299200664,
+					"index" : 0
+				},
+				"460228854" : {
+					"sourceHash" : 460228854,
+					"category" : 3,
+					"identifier" : "SOURCE_TTK",
+					"sourceName" : "The Taken King",
+					"description" : "This item requires the Taken King expansion.",
+					"icon" : "/img/destiny_content/sources/700460_sm.png",
+					"hash" : 460228854,
+					"index" : 0
+				}
+			},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

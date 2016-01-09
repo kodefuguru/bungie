@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="SharedProjectFile_SccProperties">
+    <SharedProjectFile_ProjectGuid>{C0F87A98-93D6-463F-9E8F-C0D235FAD182}</SharedProjectFile_ProjectGuid>
+    <SharedProjectFile_SccProjectName>SAK</SharedProjectFile_SccProjectName>
+    <SharedProjectFile_SccAuxPath>SAK</SharedProjectFile_SccAuxPath>
+    <SharedProjectFile_SccLocalPath>SAK</SharedProjectFile_SccLocalPath>
+    <SharedProjectFile_SccProvider>SAK</SharedProjectFile_SccProvider>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>5DC7C0FB-A470-4009-8899-8D3C3B083ABB</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>BaseJump</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Conventions\DefaultHttpMethodConvention.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Conventions\DefaultActionPathConvention.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Conventions\DefaultServicePathConvention.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Conventions\IConvention.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Conventions\IHttpMethodConvention.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Conventions\IActionPathConvention.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Conventions\IServicePathConvention.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\HttpMethod.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\ActionMetadataProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\IActionMetadata.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\IActionMetadataProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\IModelMetadata.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\IModelMetadataProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\IServiceMetadata.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\IServiceMetadataProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\ModelMetadataProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\ServiceMetadata.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\ActionMetadata.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\ModelMetadata.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Metadata\ServiceMetadataProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\ModelDictionary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\ModelValueFormatter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\ReflectionExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\RequestBuilder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\RequestModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Route.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\RouteRequest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\RouteTable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\RouteToken.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\WebRequestExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FormatAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HttpDeleteAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HttpGetAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HttpMethodAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HttpPostAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HttpPutAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IgnoreAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NameAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NumericAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RouteAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Service.cs" />
+  </ItemGroup>
+</Project>

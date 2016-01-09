@@ -1,0 +1,133 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 1716568313,
+			"progression" : {
+				"progressionHash" : 1716568313,
+				"name" : "character_level",
+				"scope" : 1,
+				"repeatLastStep" : false,
+				"identifier" : "PROGRESSION_CHARACTER_LEVEL",
+				"steps" : [{
+						"progressTotal" : 0
+					}, {
+						"progressTotal" : 900
+					}, {
+						"progressTotal" : 4100
+					}, {
+						"progressTotal" : 5000
+					}, {
+						"progressTotal" : 6000
+					}, {
+						"progressTotal" : 7000
+					}, {
+						"progressTotal" : 8000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 9000
+					}, {
+						"progressTotal" : 10000
+					}, {
+						"progressTotal" : 15000
+					}, {
+						"progressTotal" : 20000
+					}
+				],
+				"hash" : 1716568313,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

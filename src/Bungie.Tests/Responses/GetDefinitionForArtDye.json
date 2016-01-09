@@ -1,0 +1,48 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 1824360987,
+			"artDye" : {
+				"artDyeHash" : 1824360987,
+				"index" : 3370,
+				"dyeManifestHash" : 1591671835,
+				"hash" : 1824360987
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

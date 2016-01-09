@@ -1,0 +1,43 @@
+{
+	"Response" : {
+		"data" : {
+			"events" : []
+		},
+		"definitions" : {
+			"events" : {},
+			"progressions" : {},
+			"vendorSummaries" : {},
+			"factions" : {},
+			"vendorCategories" : {},
+			"vendorDetails" : {},
+			"buckets" : {},
+			"items" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"locations" : {},
+			"destinations" : {},
+			"activities" : {},
+			"books" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"activityBundles" : {},
+			"flags" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

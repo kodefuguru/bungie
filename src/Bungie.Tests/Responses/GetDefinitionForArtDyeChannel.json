@@ -1,0 +1,48 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 662199250,
+			"artDyeChannel" : {
+				"channelHash" : 662199250,
+				"index" : 0,
+				"channelName" : "armor",
+				"hash" : 662199250
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

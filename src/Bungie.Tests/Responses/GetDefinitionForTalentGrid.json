@@ -1,0 +1,1505 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 3604172206,
+			"talentGrid" : {
+				"gridHash" : 3604172206,
+				"maxGridLevel" : 0,
+				"gridLevelPerColumn" : 0,
+				"progressionHash" : 3155986019,
+				"nodes" : [{
+						"nodeIndex" : 0,
+						"nodeHash" : 0,
+						"row" : 0,
+						"column" : 2,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 514360778,
+								"nodeStepName" : "Double Jump",
+								"nodeStepDescription" : "Jump a second time after leaving the ground.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/6d99f20090b40bc89c05b4940bd0a2d5.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 3,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [1144839471],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 1,
+						"nodeHash" : 1,
+						"row" : 0,
+						"column" : 1,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 332456255,
+								"nodeStepName" : "Spike Grenade",
+								"nodeStepDescription" : "A grenade that attaches to any surface and emits a torrent of damaging Void Light.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/44a9b1df0ac4847e71c67024665f167a.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 2,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [2015769915],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [8, 9],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 2,
+						"nodeHash" : 2,
+						"row" : 0,
+						"column" : 8,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 292086646,
+								"nodeStepName" : "Keen Scout",
+								"nodeStepDescription" : "Sprint and Sneak faster, gain Enhanced Tracker and the ability to Mark targets you damage.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/04d4210021146e2905d04d34b7ee6398.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 13,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [1688250372, 1688250373],
+								"startProgressionBarAtProgress" : 51000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [10, 11],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 3,
+						"nodeHash" : 3,
+						"row" : 2,
+						"column" : 6,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3632189236,
+								"nodeStepName" : "Lockdown",
+								"nodeStepDescription" : "Grenade and Smoke effects last twice as long, allowing strong territory control.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/c3eac31fbb8c894d4fc1861c60ba3158.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 26,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [967173648],
+								"startProgressionBarAtProgress" : 339000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [4, 26],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 4,
+						"nodeHash" : 4,
+						"row" : 1,
+						"column" : 6,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 1764989418,
+								"nodeStepName" : "Light of the Pack",
+								"nodeStepDescription" : "Killing tethered targets creates Orbs of Light for your allies.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/be6bad7fa9905cfe4dcbace51c035ad6.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 15,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [967173651],
+								"startProgressionBarAtProgress" : 69000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [3, 26],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 5,
+						"nodeHash" : 5,
+						"row" : 0,
+						"column" : 4,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 4123154634,
+								"nodeStepName" : "Smoke",
+								"nodeStepDescription" : "Throw Smoke to slow and disorient those trapped in its cloud.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/f83d5db812f4f9ed6cc4857bf2128db8.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 5,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 6,
+						"nodeHash" : 6,
+						"row" : 2,
+						"column" : 2,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3081763394,
+								"nodeStepName" : "Better Control",
+								"nodeStepDescription" : "Upgrades Double Jump for better directional control while in the air.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/65d1b2b107f7d2530d4a0b30b0843254.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 19,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 111000,
+								"statHashes" : [1943323491],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [7, 16],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 7,
+						"nodeHash" : 7,
+						"row" : 1,
+						"column" : 2,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 2578109902,
+								"nodeStepName" : "Higher Jump",
+								"nodeStepDescription" : "Upgrades Double Jump for even greater height.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/7bd3a698655d1740fa5805806a693c62.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 8,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 7000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [6, 16],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 8,
+						"nodeHash" : 8,
+						"row" : 1,
+						"column" : 1,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 2576774201,
+								"nodeStepName" : "Voidwall Grenade",
+								"nodeStepDescription" : "A grenade that creates a horizontal wall of burning Void Light.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/cbd20c6182f1c54cdffecb3eac2cdf21.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 7,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [1, 9],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 9,
+						"nodeHash" : 9,
+						"row" : 2,
+						"column" : 1,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 2008044721,
+								"nodeStepName" : "Vortex Grenade",
+								"nodeStepDescription" : "A grenade that creates a Vortex, continually damaging enemies trapped inside.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/78e48c3c308df4689627911d8ce82db0.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 18,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 96000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [1, 8],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 10,
+						"nodeHash" : 10,
+						"row" : 1,
+						"column" : 8,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3145451502,
+								"nodeStepName" : "Predator",
+								"nodeStepDescription" : "The Void Anchors fired from Shadowshot become traps that stick to surfaces and wait for prey.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/54b2a82bc061ce1106685b59a89858d0.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 17,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 87000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [2, 11],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 11,
+						"nodeHash" : 11,
+						"row" : 2,
+						"column" : 8,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 2384076060,
+								"nodeStepName" : "Shadestep",
+								"nodeStepDescription" : "Press, to evade.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/7cc421e871f66c0902a72202939bfd36.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 28,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 429000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [2, 10],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 12,
+						"nodeHash" : 12,
+						"row" : 0,
+						"column" : 3,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3931765019,
+								"nodeStepName" : "Shadowshot",
+								"nodeStepDescription" : "Tether foes to a Void Anchor, slowing, weakening and suppressing them for you and your allies.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/6c31be66f378dd69324c4cd0b47b0d9c.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 4,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [4087094734],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 13,
+						"nodeHash" : 13,
+						"row" : 0,
+						"column" : -1,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : true,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 4123154634,
+								"nodeStepName" : "Smoke",
+								"nodeStepDescription" : "Throw Smoke to slow and disorient those trapped in its cloud.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/f83d5db812f4f9ed6cc4857bf2128db8.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 0,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 14,
+						"nodeHash" : 14,
+						"row" : 1,
+						"column" : -1,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : true,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 514360778,
+								"nodeStepName" : "Double Jump",
+								"nodeStepDescription" : "Jump a second time after leaving the ground.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/6d99f20090b40bc89c05b4940bd0a2d5.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 0,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 15,
+						"nodeHash" : 15,
+						"row" : 2,
+						"column" : -1,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : true,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 0,
+								"icon" : "/img/misc/missing_icon.png",
+								"damageType" : 4,
+								"damageTypeHash" : 3454344768,
+								"activationRequirement" : {
+									"gridLevel" : 0,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [2928341343, 2928341342, 2928341341, 1425794522],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [2996146975, 392767087, 1943323491],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 16,
+						"nodeHash" : 16,
+						"row" : 3,
+						"column" : 2,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 337387577,
+								"nodeStepName" : "Triple Jump",
+								"nodeStepDescription" : "Upgrades Double Jump with a third jump.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/1ef557d63c6793f0fcd705a4b6ed2619.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 23,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 204000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [6, 7],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 17,
+						"nodeHash" : 17,
+						"row" : 1,
+						"column" : 3,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 948593941,
+								"nodeStepName" : "Blood Bound",
+								"nodeStepDescription" : "Tethered enemies explode when killed. Damage to tethered enemies is shared to all.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/cfcdf5c2bd4dd0e3e1729f707d952ed8.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 9,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [967173650, 967173653],
+								"startProgressionBarAtProgress" : 15000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [18, 19],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 18,
+						"nodeHash" : 18,
+						"row" : 3,
+						"column" : 3,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 2475431089,
+								"nodeStepName" : "Quiver",
+								"nodeStepDescription" : "Fire Shadowshot up to three times. Void Anchors have reduced range.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/6e13f89053919fee557bcee372858775.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 24,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 249000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [17, 19],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 19,
+						"nodeHash" : 19,
+						"row" : 2,
+						"column" : 3,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3336126420,
+								"nodeStepName" : "Black Hole",
+								"nodeStepDescription" : "The Void Anchor has increased range, lasts significantly longer and can tether more targets.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/a92fec13ffcb5be2ee637b4e4b7621ed.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 20,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 129000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [17, 18],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 20,
+						"nodeHash" : 20,
+						"row" : 2,
+						"column" : 4,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 4025960910,
+								"nodeStepName" : "Vanish in Smoke",
+								"nodeStepDescription" : "You and allies near Smoke explosions vanish from sight.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/4e1c1a84d7a1481d38ced12c434b6e8f.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 21,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 150000,
+								"statHashes" : [2996146975],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [21, 22],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 21,
+						"nodeHash" : 21,
+						"row" : 3,
+						"column" : 4,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 84848142,
+								"nodeStepName" : "Snare",
+								"nodeStepDescription" : "Allows Smoke to stick to surfaces, detonating when enemies are near.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/98f7f1dc7059df574ae03c5ca9fbf844.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 25,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 294000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [20, 22],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 22,
+						"nodeHash" : 22,
+						"row" : 1,
+						"column" : 4,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 924947160,
+								"nodeStepName" : "Envenomed",
+								"nodeStepDescription" : "Adds a toxin that damages enemies within Smoke.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/7faa53a387d50a1d2a6354422f2dfafe.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 10,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 24000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [20, 21],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 23,
+						"nodeHash" : 23,
+						"row" : 0,
+						"column" : 5,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3130913424,
+								"nodeStepName" : "Path Forgotten",
+								"nodeStepDescription" : "Training focused on toughness and speed.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/c65a8ae7b871209daf38fd26a65bfb55.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 6,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 0,
+								"statHashes" : [392767087, 2996146975],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [24, 25],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 24,
+						"nodeHash" : 24,
+						"row" : 1,
+						"column" : 5,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 1528856035,
+								"nodeStepName" : "Path Forbidden",
+								"nodeStepDescription" : "Training focused on battle recovery and speed.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/c65a8ae7b871209daf38fd26a65bfb55.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 14,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 60000,
+								"statHashes" : [2996146975, 1943323491],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [23, 25],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 25,
+						"nodeHash" : 25,
+						"row" : 2,
+						"column" : 5,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 1943570896,
+								"nodeStepName" : "Path Unknown",
+								"nodeStepDescription" : "Training focused on battle recovery and toughness.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/c65a8ae7b871209daf38fd26a65bfb55.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 22,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 174000,
+								"statHashes" : [392767087, 1943323491],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [23, 24],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 26,
+						"nodeHash" : 26,
+						"row" : 0,
+						"column" : 6,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 1560304916,
+								"nodeStepName" : "Courage of the Pack",
+								"nodeStepDescription" : "Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/e075c86eaeefb28790d5c73a41c1fd1f.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 11,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [967173649],
+								"startProgressionBarAtProgress" : 33000,
+								"statHashes" : [],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [3, 4],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 27,
+						"nodeHash" : 27,
+						"row" : 1,
+						"column" : 7,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3577155563,
+								"nodeStepName" : "Way of the Fearless",
+								"nodeStepDescription" : "Training focused on toughness at all costs.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/a237fedc11afdb132e6e8e26d664083d.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 16,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 78000,
+								"statHashes" : [392767087],
+								"affectsQuality" : false,
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [28, 29],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 28,
+						"nodeHash" : 28,
+						"row" : 2,
+						"column" : 7,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 3785632091,
+								"nodeStepName" : "Way of the Nomad",
+								"nodeStepDescription" : "Training focused on maximum battle recovery.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/a237fedc11afdb132e6e8e26d664083d.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 27,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 384000,
+								"statHashes" : [2996146975, 1943323491],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [27, 29],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}, {
+						"nodeIndex" : 29,
+						"nodeHash" : 29,
+						"row" : 0,
+						"column" : 7,
+						"prerequisiteNodeIndexes" : [],
+						"binaryPairNodeIndex" : -1,
+						"autoUnlocks" : false,
+						"lastStepRepeats" : false,
+						"isRandom" : false,
+						"isRandomRepurchasable" : false,
+						"steps" : [{
+								"stepIndex" : 0,
+								"nodeStepHash" : 1102961208,
+								"nodeStepName" : "Way of the Drifter",
+								"nodeStepDescription" : "Training focused on all attributes.",
+								"interactionDescription" : "Upgrade",
+								"icon" : "/common/destiny_content/icons/a237fedc11afdb132e6e8e26d664083d.png",
+								"damageType" : 0,
+								"damageTypeHash" : 0,
+								"activationRequirement" : {
+									"gridLevel" : 12,
+									"materialRequirementHashes" : []
+								},
+								"canActivateNextStep" : false,
+								"nextStepIndex" : -1,
+								"isNextStepRandom" : false,
+								"perkHashes" : [],
+								"startProgressionBarAtProgress" : 42000,
+								"statHashes" : [392767087, 1943323491, 2996146975],
+								"affectsQuality" : false,
+								"stepGroups" : {
+									"weaponPerformance" : 0,
+									"impactEffects" : 0,
+									"guardianAttributes" : 1,
+									"lightAbilities" : 0,
+									"damageTypes" : 0
+								},
+								"trueStepIndex" : 0,
+								"truePropertyIndex" : 0,
+								"affectsLevel" : false
+							}
+						],
+						"exlusiveWithNodes" : [27, 28],
+						"randomStartProgressionBarAtProgression" : 0,
+						"originalNodeHash" : 0
+					}
+				],
+				"calcMaxGridLevel" : 0,
+				"calcProgressToMaxLevel" : 0,
+				"exclusiveSets" : [{
+						"nodeIndexes" : [1, 8, 9]
+					}, {
+						"nodeIndexes" : [2, 10, 11]
+					}, {
+						"nodeIndexes" : [3, 4, 26]
+					}, {
+						"nodeIndexes" : [6, 7, 16]
+					}, {
+						"nodeIndexes" : [17, 18, 19]
+					}, {
+						"nodeIndexes" : [20, 21, 22]
+					}, {
+						"nodeIndexes" : [23, 24, 25]
+					}, {
+						"nodeIndexes" : [27, 28, 29]
+					}
+				],
+				"independentNodeIndexes" : [0, 5, 12],
+				"hash" : 3604172206,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {
+				"1943323491" : {
+					"statHash" : 1943323491,
+					"statName" : "Recovery",
+					"statDescription" : "Increases the speed at which you regain lost health.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_RECOVERY",
+					"interpolate" : false,
+					"hash" : 1943323491,
+					"index" : 0
+				},
+				"2996146975" : {
+					"statHash" : 2996146975,
+					"statName" : "Agility",
+					"statDescription" : "Increases your movement speed and maximum jump height.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_AGILITY",
+					"interpolate" : false,
+					"hash" : 2996146975,
+					"index" : 0
+				},
+				"392767087" : {
+					"statHash" : 392767087,
+					"statName" : "Armor",
+					"statDescription" : "Increases the amount of damage you can take before dying.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_ARMOR",
+					"interpolate" : false,
+					"hash" : 392767087,
+					"index" : 0
+				}
+			},
+			"perks" : {
+				"1144839471" : {
+					"perkHash" : 1144839471,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 1144839471,
+					"index" : 0
+				},
+				"2015769915" : {
+					"perkHash" : 2015769915,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2015769915,
+					"index" : 0
+				},
+				"1688250372" : {
+					"perkHash" : 1688250372,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 1688250372,
+					"index" : 0
+				},
+				"1688250373" : {
+					"perkHash" : 1688250373,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 1688250373,
+					"index" : 0
+				},
+				"967173648" : {
+					"perkHash" : 967173648,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 967173648,
+					"index" : 0
+				},
+				"967173651" : {
+					"perkHash" : 967173651,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 967173651,
+					"index" : 0
+				},
+				"4087094734" : {
+					"perkHash" : 4087094734,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 4087094734,
+					"index" : 0
+				},
+				"2928341343" : {
+					"perkHash" : 2928341343,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2928341343,
+					"index" : 0
+				},
+				"2928341342" : {
+					"perkHash" : 2928341342,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2928341342,
+					"index" : 0
+				},
+				"2928341341" : {
+					"perkHash" : 2928341341,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2928341341,
+					"index" : 0
+				},
+				"1425794522" : {
+					"perkHash" : 1425794522,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 1425794522,
+					"index" : 0
+				},
+				"967173650" : {
+					"perkHash" : 967173650,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 967173650,
+					"index" : 0
+				},
+				"967173653" : {
+					"perkHash" : 967173653,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 967173653,
+					"index" : 0
+				},
+				"967173649" : {
+					"perkHash" : 967173649,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 967173649,
+					"index" : 0
+				}
+			},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {
+				"3155986019" : {
+					"progressionHash" : 3155986019,
+					"name" : "build_hunter_void0",
+					"scope" : 2,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 7000
+						}, {
+							"progressTotal" : 8000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 15000
+						}, {
+							"progressTotal" : 18000
+						}, {
+							"progressTotal" : 21000
+						}, {
+							"progressTotal" : 24000
+						}, {
+							"progressTotal" : 30000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}
+					],
+					"hash" : 3155986019,
+					"index" : 0
+				}
+			},
+			"damageTypes" : {
+				"3454344768" : {
+					"damageTypeHash" : 3454344768,
+					"identifier" : "DAMAGE_TYPE_VOID",
+					"damageTypeName" : "Void",
+					"iconPath" : "/img/destiny_content/damage_types/void.png",
+					"transparentIconPath" : "img/destiny_content/damage_types/void_trans.png",
+					"showIcon" : true,
+					"enumValue" : 4,
+					"hash" : 3454344768,
+					"index" : 0
+				}
+			},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

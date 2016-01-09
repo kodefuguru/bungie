@@ -1,0 +1,53 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 2271682572,
+			"classDefinition" : {
+				"classHash" : 2271682572,
+				"classType" : 2,
+				"className" : "Warlock",
+				"classNameMale" : "Warlock",
+				"classNameFemale" : "Warlock",
+				"classIdentifier" : "CLASS_WARLOCK",
+				"mentorVendorIdentifier" : "VENDOR_WARLOCK_MENTOR",
+				"hash" : 2271682572,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

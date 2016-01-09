@@ -1,0 +1,97 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 1749151224,
+			"activityBundle" : {
+				"bundleHash" : 1749151224,
+				"activityName" : "Vanguard Nightfall",
+				"activityDescription" : "Launches a random Nightfall strike.",
+				"icon" : "/img/misc/missing_icon.png",
+				"releaseIcon" : "/common/destiny_content/icons/1dddd07c505c386179257ec594d52110.png",
+				"releaseTime" : 0,
+				"destinationHash" : 2512542997,
+				"placeHash" : 3747705955,
+				"activityTypeHash" : 575572995,
+				"activityHashes" : [1749151224],
+				"hash" : 1749151224,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {
+				"2512542997" : {
+					"destinationHash" : 2512542997,
+					"destinationName" : "Strike Playlist",
+					"destinationDescription" : "Join a fireteam of three and face the most feared minions of the Darkness.",
+					"icon" : "/common/destiny_content/icons/9a838566008cf8a8298e286d1162b185.jpg",
+					"placeHash" : 3747705955,
+					"destinationIdentifier" : "DESTINATION_STRIKES",
+					"hash" : 2512542997,
+					"index" : 0
+				}
+			},
+			"places" : {
+				"3747705955" : {
+					"placeHash" : 3747705955,
+					"placeName" : "Earth",
+					"placeDescription" : "Mankind's cradle, full of shattered glory, ready to be reclaimed.",
+					"icon" : "/img/misc/missing_icon.png",
+					"hash" : 3747705955,
+					"index" : 0
+				}
+			},
+			"activityTypes" : {
+				"575572995" : {
+					"activityTypeHash" : 575572995,
+					"identifier" : "ACTIVITY_TYPE_NIGHTFALL",
+					"activityTypeName" : "Strike",
+					"activityTypeDescription" : "Join a fireteam of three and face the most feared minions of the Darkness.",
+					"icon" : "/common/destiny_content/icons/7d0684694ad4505445c5593a6ed85e37.png",
+					"activeBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Active/strikes.png",
+					"completedBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Completed/strikes.png",
+					"hiddenOverrideVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Hidden/strikes.png",
+					"tooltipBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Tooltip/strikes.png",
+					"enlargedActiveBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Active/strikes.png",
+					"enlargedCompletedBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Completed/strikes.png",
+					"enlargedHiddenOverrideVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Hidden/strikes.png",
+					"enlargedTooltipBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Tooltip/strikes.png",
+					"order" : 1,
+					"statGroup" : "nightfall",
+					"friendlyUrlId" : "nightfall",
+					"hash" : 575572995,
+					"index" : 0
+				}
+			},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

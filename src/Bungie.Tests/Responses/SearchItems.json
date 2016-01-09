@@ -1,0 +1,1031 @@
+{
+	"Response" : {
+		"data" : {
+			"itemHashes" : [3671454769, 4111350119, 4111350117, 3720866502, 4112903824, 194424270, 4111350118, 3056359299, 1158121102, 2949605650],
+			"totalResults" : "4397",
+			"hasMore" : true,
+			"query" : {
+				"itemsPerPage" : 10,
+				"currentPage" : 0
+			},
+			"useTotalResults" : true
+		},
+		"definitions" : {
+			"items" : {
+				"3671454769" : {
+					"itemHash" : 3671454769,
+					"itemName" : "18327496-64703388",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/b52bf7d23d80f625389d326e02101806.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Rare",
+					"tierType" : 4,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 1098741162
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 3641356514
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 1654635411
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 20,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [541934873, 1557240522, 3672389432],
+							"spawnIndexes" : [0, 1, 2]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [541934873, 1557240522, 3672389432],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 3671454769,
+					"index" : 0
+				},
+				"4111350119" : {
+					"itemHash" : 4111350119,
+					"itemName" : "Aaru's Passage",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/8ff77079442256ad8bb70cc206324c40.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Legendary",
+					"tierType" : 5,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 1432131208
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 598888461
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 220700628
+							}
+						],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 1432131208
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 598888461
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 220700628
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 0,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [3413298620, 1882189853],
+							"spawnIndexes" : [0]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [3413298620, 1882189853],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 4111350119,
+					"index" : 0
+				},
+				"4111350117" : {
+					"itemHash" : 4111350117,
+					"itemName" : "Abydos Common",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/f4aeee92591d00894f56d84e491fe0f8.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Legendary",
+					"tierType" : 5,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 4151893590
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 3939190039
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 3212857622
+							}
+						],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 4151893590
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 3939190039
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 3212857622
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 0,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [1882189853],
+							"spawnIndexes" : [0]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [1882189853],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 4111350117,
+					"index" : 0
+				},
+				"3720866502" : {
+					"itemHash" : 3720866502,
+					"itemName" : "Achilles",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/7894f634d3d309581266e28c6dbb7abc.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Rare",
+					"tierType" : 4,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 1453849841
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 955743023
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 1182074928
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 0,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [1882189853],
+							"spawnIndexes" : [0]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [1882189853],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 3720866502,
+					"index" : 0
+				},
+				"4112903824" : {
+					"itemHash" : 4112903824,
+					"itemName" : "Amalthea",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/9ffa56e63e82164242408a0d1e8c3fbb.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Legendary",
+					"tierType" : 5,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 1831963752
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 196381236
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 998721005
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 20,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [541934873, 1557240522],
+							"spawnIndexes" : [0, 1]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [541934873, 1557240522],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 4112903824,
+					"index" : 0
+				},
+				"194424270" : {
+					"itemHash" : 194424270,
+					"itemName" : "Amber Hoplite",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/eafcc6bbaf5f89da5fe358cf25e7681d.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Legendary",
+					"tierType" : 5,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 51219817
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 2269322407
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 2523653848
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 0,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [],
+							"spawnIndexes" : [0]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 194424270,
+					"index" : 0
+				},
+				"4111350118" : {
+					"itemHash" : 4111350118,
+					"itemName" : "Amduat Ink",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/f1398445934a5029d3b9562c911e9477.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Legendary",
+					"tierType" : 5,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 1844792209
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 1573017552
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 475793999
+							}
+						],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 1844792209
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 1573017552
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 475793999
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 0,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [1882189853],
+							"spawnIndexes" : [0]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [1882189853],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 4111350118,
+					"index" : 0
+				},
+				"3056359299" : {
+					"itemHash" : 3056359299,
+					"itemName" : "Anahata",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/8afe2bae8fa61a0ed6da0a9a1bd6d122.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Rare",
+					"tierType" : 4,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 773123660
+							}
+						],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 773123660
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 1522144441
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 2233886896
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 0,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [],
+							"spawnIndexes" : [0]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 3056359299,
+					"index" : 0
+				},
+				"1158121102" : {
+					"itemHash" : 1158121102,
+					"itemName" : "Antique Land",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/70a8282a3bba16e3373224aa78c572f0.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Legendary",
+					"tierType" : 5,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 3311876265
+							}
+						],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 3311876265
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 3731978389
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 2507108460
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 0,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [],
+							"spawnIndexes" : [0]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 1158121102,
+					"index" : 0
+				},
+				"2949605650" : {
+					"itemHash" : 2949605650,
+					"itemName" : "Arctic Proxy",
+					"itemDescription" : "Equip this shader to change the color of your armor.",
+					"icon" : "/common/destiny_content/icons/beb465446979e3b407b8ffa5d960d010.jpg",
+					"secondaryIcon" : "/img/misc/missing_icon.png",
+					"actionName" : "Delete",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Rare",
+					"tierType" : 4,
+					"itemTypeName" : "Armor Shader",
+					"bucketTypeHash" : 2973005342,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 1245368945,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [],
+						"lockedDyes" : [],
+						"customDyes" : [{
+								"channelHash" : 662199250,
+								"dyeHash" : 389630629
+							}, {
+								"channelHash" : 218592586,
+								"dyeHash" : 242811611
+							}, {
+								"channelHash" : 1367384683,
+								"dyeHash" : 2368122572
+							}
+						],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 0,
+					"itemLevels" : [],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 3,
+					"sources" : [{
+							"expansionIndex" : 0,
+							"level" : 0,
+							"minQuality" : 0,
+							"maxQuality" : 0,
+							"minLevelRequired" : 0,
+							"maxLevelRequired" : 20,
+							"exclusivity" : 0,
+							"computedStats" : {},
+							"sourceHashes" : [541934873, 1557240522],
+							"spawnIndexes" : [0, 1]
+						}
+					],
+					"itemCategoryHashes" : [41, 52],
+					"sourceHashes" : [541934873, 1557240522],
+					"nonTransferrable" : false,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 2949605650,
+					"index" : 0
+				}
+			},
+			"buckets" : {
+				"2973005342" : {
+					"bucketHash" : 2973005342,
+					"bucketName" : "Shaders",
+					"bucketDescription" : "Apply new colors and materials to compatible Armor.",
+					"scope" : 0,
+					"category" : 3,
+					"bucketOrder" : 140,
+					"bucketIdentifier" : "BUCKET_SHADER",
+					"itemCount" : 10,
+					"location" : 1,
+					"hasTransferDestination" : true,
+					"enabled" : true,
+					"hash" : 2973005342,
+					"index" : 0
+				}
+			},
+			"stats" : {},
+			"perks" : {
+				"1889420278" : {
+					"perkHash" : 1889420278,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 1889420278,
+					"index" : 0
+				}
+			},
+			"talentGrids" : {
+				"1245368945" : {
+					"gridHash" : 1245368945,
+					"maxGridLevel" : 0,
+					"gridLevelPerColumn" : 0,
+					"progressionHash" : 0,
+					"nodes" : [{
+							"nodeIndex" : 0,
+							"nodeHash" : 0,
+							"row" : 0,
+							"column" : -1,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : true,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 0,
+									"icon" : "/img/misc/missing_icon.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 0,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [1889420278],
+									"startProgressionBarAtProgress" : 0,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}
+					],
+					"calcMaxGridLevel" : 0,
+					"calcProgressToMaxLevel" : 0,
+					"exclusiveSets" : [],
+					"independentNodeIndexes" : [],
+					"hash" : 1245368945,
+					"index" : 0
+				}
+			},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {
+				"41" : {
+					"itemCategoryHash" : 41,
+					"identifier" : "CATEGORY_SHADER",
+					"visible" : false,
+					"title" : "Shaders",
+					"shortTitle" : "Shaders",
+					"description" : "Add color and texture to existing armor.",
+					"grantDestinyItemType" : 0,
+					"grantDestinySubType" : 0,
+					"grantDestinyClass" : 0,
+					"hash" : 41,
+					"index" : 0
+				},
+				"52" : {
+					"itemCategoryHash" : 52,
+					"identifier" : "CATEGORY_INVENTORY",
+					"visible" : false,
+					"title" : "Inventory",
+					"shortTitle" : "Inventory",
+					"description" : "",
+					"grantDestinyItemType" : 0,
+					"grantDestinySubType" : 0,
+					"grantDestinyClass" : 0,
+					"hash" : 52,
+					"index" : 0
+				}
+			},
+			"sources" : {
+				"541934873" : {
+					"sourceHash" : 541934873,
+					"category" : 1,
+					"identifier" : "SOURCE_INCIDENTS",
+					"sourceName" : "Unknown",
+					"description" : "This item can drop in situationally dependent ways.",
+					"icon" : "/img/destiny_content/sources/activities_sm.png",
+					"hash" : 541934873,
+					"index" : 0
+				},
+				"3672389432" : {
+					"sourceHash" : 3672389432,
+					"category" : 2,
+					"identifier" : "SOURCE_VENDOR_OUTFITTER",
+					"sourceName" : "Guardian Outfitter",
+					"description" : "Eva Levante, the Guardian Outfitter, sometimes sells this item in the Tower.",
+					"icon" : "/img/destiny_content/sources/109100_sm.png",
+					"hash" : 3672389432,
+					"index" : 0
+				},
+				"3413298620" : {
+					"sourceHash" : 3413298620,
+					"category" : 1,
+					"identifier" : "SOURCE_TRIALS_OF_OSIRIS",
+					"sourceName" : "Trials of Osiris",
+					"description" : "This item can drop as a Trials of Osiris reward.",
+					"icon" : "/img/destiny_content/sources/608110_sm.png",
+					"hash" : 3413298620,
+					"index" : 0
+				},
+				"1882189853" : {
+					"sourceHash" : 1882189853,
+					"category" : 1,
+					"identifier" : "SOURCE_CRUCIBLE",
+					"sourceName" : "Crucible",
+					"description" : "This item can drop as a Crucible match reward.",
+					"icon" : "/img/destiny_content/sources/608010_sm.png",
+					"hash" : 1882189853,
+					"index" : 0
+				}
+			},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"destinations" : {},
+			"activities" : {},
+			"books" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

@@ -1,0 +1,2395 @@
+{
+	"Response" : {
+		"data" : {
+			"item" : {
+				"itemHash" : 3658182170,
+				"bindStatus" : 0,
+				"isEquipped" : true,
+				"itemInstanceId" : "6917529027654664565",
+				"itemLevel" : 0,
+				"stackSize" : 1,
+				"qualityLevel" : 0,
+				"stats" : [],
+				"canEquip" : true,
+				"equipRequiredLevel" : 0,
+				"unlockFlagHashRequiredToEquip" : 2166136261,
+				"cannotEquipReason" : 0,
+				"damageType" : 3,
+				"damageTypeHash" : 1847026933,
+				"damageTypeNodeIndex" : 24,
+				"damageTypeStepIndex" : 0,
+				"progression" : {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 535000,
+					"level" : 28,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 1997970403
+				},
+				"talentGridHash" : 329013260,
+				"nodes" : [{
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 0
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 1
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 2
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 3
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 4
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 5
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 6
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 7
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 8
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 9
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : true,
+						"nodeHash" : 10
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 11
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 12
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : true,
+						"nodeHash" : 13
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 14
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 15
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 16
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 17
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 18
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 19
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 20
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 21
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 22
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 23
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : true,
+						"nodeHash" : 24
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 25
+					}, {
+						"isActivated" : true,
+						"stepIndex" : 0,
+						"state" : 10,
+						"hidden" : false,
+						"nodeHash" : 26
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 27
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 28
+					}, {
+						"isActivated" : false,
+						"stepIndex" : 0,
+						"state" : 9,
+						"hidden" : false,
+						"nodeHash" : 29
+					}
+				],
+				"useCustomDyes" : true,
+				"artRegions" : {},
+				"isEquipment" : true,
+				"isGridComplete" : true,
+				"perks" : [],
+				"location" : 1,
+				"transferStatus" : 3,
+				"locked" : false,
+				"lockable" : false,
+				"objectives" : [],
+				"state" : 0
+			},
+			"talentNodes" : [{
+					"nodeIndex" : 0,
+					"nodeHash" : 0,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 1,
+					"nodeHash" : 1,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 7,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 2,
+					"nodeHash" : 2,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 25,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 3,
+					"nodeHash" : 3,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 9,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 4,
+					"nodeHash" : 4,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 17,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 5,
+					"nodeHash" : 5,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 28,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 6,
+					"nodeHash" : 6,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 7,
+					"nodeHash" : 7,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 8,
+					"nodeHash" : 8,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 11,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 9,
+					"nodeHash" : 9,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 26,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 10,
+					"nodeHash" : 10,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : true
+				}, {
+					"nodeIndex" : 11,
+					"nodeHash" : 11,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 21,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 12,
+					"nodeHash" : 12,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 13,
+					"nodeHash" : 13,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : true
+				}, {
+					"nodeIndex" : 14,
+					"nodeHash" : 14,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 23,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 15,
+					"nodeHash" : 15,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 8,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 16,
+					"nodeHash" : 16,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 2,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 17,
+					"nodeHash" : 17,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 18,
+					"nodeHash" : 18,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 24,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 19,
+					"nodeHash" : 19,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 20,
+					"nodeHash" : 20,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 21,
+					"nodeHash" : 21,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 22,
+					"nodeHash" : 22,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 23,
+					"nodeHash" : 23,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 24,
+					"nodeHash" : 24,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : true
+				}, {
+					"nodeIndex" : 25,
+					"nodeHash" : 25,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 6,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 26,
+					"nodeHash" : 26,
+					"state" : 10,
+					"stateId" : "Complete",
+					"isActivated" : true,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 0,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 27,
+					"nodeHash" : 27,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 14,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 28,
+					"nodeHash" : 28,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 27,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}, {
+					"nodeIndex" : 29,
+					"nodeHash" : 29,
+					"state" : 9,
+					"stateId" : "MustSwap",
+					"isActivated" : false,
+					"stepIndex" : 0,
+					"materialsToUpgrade" : [],
+					"activationGridLevel" : 12,
+					"progressPercent" : 100.0,
+					"hidden" : false
+				}
+			],
+			"statsOnNodes" : {
+				"527055148" : {
+					"currentNodeStats" : [],
+					"nextNodeStats" : [{
+							"statHash" : 2996146975,
+							"value" : 1,
+							"maximumValue" : 11
+						}
+					]
+				},
+				"854986420" : {
+					"currentNodeStats" : [{
+							"statHash" : 392767087,
+							"value" : 2,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 2996146975,
+							"value" : 2,
+							"maximumValue" : 11
+						}
+					],
+					"nextNodeStats" : []
+				},
+				"2355026416" : {
+					"currentNodeStats" : [{
+							"statHash" : 392767087,
+							"value" : 1,
+							"maximumValue" : 11
+						}
+					],
+					"nextNodeStats" : []
+				},
+				"1776652417" : {
+					"currentNodeStats" : [{
+							"statHash" : 2996146975,
+							"value" : 1,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 392767087,
+							"value" : 1,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 1943323491,
+							"value" : 5,
+							"maximumValue" : 11
+						}
+					],
+					"nextNodeStats" : []
+				},
+				"1382476485" : {
+					"currentNodeStats" : [],
+					"nextNodeStats" : [{
+							"statHash" : 1943323491,
+							"value" : 2,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 2996146975,
+							"value" : 2,
+							"maximumValue" : 11
+						}
+					]
+				},
+				"1560693961" : {
+					"currentNodeStats" : [{
+							"statHash" : 2996146975,
+							"value" : 5,
+							"maximumValue" : 11
+						}
+					],
+					"nextNodeStats" : []
+				},
+				"855427835" : {
+					"currentNodeStats" : [],
+					"nextNodeStats" : [{
+							"statHash" : 392767087,
+							"value" : 2,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 1943323491,
+							"value" : 2,
+							"maximumValue" : 11
+						}
+					]
+				},
+				"1560841054" : {
+					"currentNodeStats" : [],
+					"nextNodeStats" : [{
+							"statHash" : 392767087,
+							"value" : 4,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 1943323491,
+							"value" : 1,
+							"maximumValue" : 11
+						}
+					]
+				},
+				"486779184" : {
+					"currentNodeStats" : [],
+					"nextNodeStats" : [{
+							"statHash" : 392767087,
+							"value" : 1,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 1943323491,
+							"value" : 2,
+							"maximumValue" : 11
+						}, {
+							"statHash" : 2996146975,
+							"value" : 2,
+							"maximumValue" : 11
+						}
+					]
+				}
+			},
+			"characterStatsToDisplay" : [{
+					"statHash" : 392767087,
+					"value" : 4,
+					"maximumValue" : 11
+				}, {
+					"statHash" : 1943323491,
+					"value" : 5,
+					"maximumValue" : 11
+				}, {
+					"statHash" : 2996146975,
+					"value" : 8,
+					"maximumValue" : 11
+				}
+			],
+			"materialItemHashes" : [],
+			"materialQuantities" : {}
+
+		},
+		"definitions" : {
+			"items" : {
+				"3658182170" : {
+					"itemHash" : 3658182170,
+					"itemName" : "Sunsinger",
+					"itemDescription" : "There are flames that even the Darkness cannot extinguish.",
+					"icon" : "/common/destiny_content/icons/21bb9c76faa1a77c282311d9776292dd.jpg",
+					"secondaryIcon" : "/common/destiny_content/icons/3d0107c23866e107ca99d794c4c55357.png",
+					"actionName" : "Dissolve",
+					"hasAction" : true,
+					"deleteOnAction" : true,
+					"tierTypeName" : "Common",
+					"tierType" : 2,
+					"itemTypeName" : "Warlock Subclass",
+					"bucketTypeHash" : 3284755031,
+					"primaryBaseStatHash" : 0,
+					"stats" : {},
+					"perkHashes" : [],
+					"specialItemType" : 0,
+					"talentGridHash" : 329013260,
+					"equippingBlock" : {
+						"weaponSandboxPatternIndex" : -1,
+						"gearArtArrangementIndex" : -1,
+						"defaultDyes" : [],
+						"lockedDyes" : [],
+						"customDyes" : [],
+						"customDyeExpression" : {
+							"steps" : []
+						},
+						"weaponPatternHash" : 0,
+						"arrangements" : []
+					},
+					"hasGeometry" : false,
+					"statGroupHash" : 1997970403,
+					"itemLevels" : [0],
+					"qualityLevel" : 0,
+					"equippable" : true,
+					"instanced" : true,
+					"rewardItemHash" : 0,
+					"values" : {},
+					"itemType" : 0,
+					"itemSubType" : 0,
+					"classType" : 2,
+					"itemCategoryHashes" : [21, 50, 52],
+					"sourceHashes" : [],
+					"nonTransferrable" : true,
+					"exclusive" : 0,
+					"maxStackSize" : 1,
+					"itemIndex" : 0,
+					"setItemHashes" : [],
+					"questlineItemHash" : 0,
+					"needsFullCompletion" : false,
+					"objectiveHashes" : [],
+					"allowActions" : true,
+					"questTrackingUnlockValueHash" : 0,
+					"bountyResetUnlockHash" : 0,
+					"hash" : 3658182170,
+					"index" : 0
+				}
+			},
+			"buckets" : {
+				"3284755031" : {
+					"bucketHash" : 3284755031,
+					"bucketName" : "Subclass",
+					"bucketDescription" : "Your abilities.",
+					"scope" : 0,
+					"category" : 3,
+					"bucketOrder" : 10,
+					"bucketIdentifier" : "BUCKET_BUILD",
+					"itemCount" : 3,
+					"location" : 1,
+					"hasTransferDestination" : false,
+					"enabled" : true,
+					"hash" : 3284755031,
+					"index" : 0
+				}
+			},
+			"stats" : {
+				"392767087" : {
+					"statHash" : 392767087,
+					"statName" : "Armor",
+					"statDescription" : "Increases the amount of damage you can take before dying.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_ARMOR",
+					"interpolate" : false,
+					"hash" : 392767087,
+					"index" : 0
+				},
+				"1943323491" : {
+					"statHash" : 1943323491,
+					"statName" : "Recovery",
+					"statDescription" : "Increases the speed at which you regain lost health.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_RECOVERY",
+					"interpolate" : false,
+					"hash" : 1943323491,
+					"index" : 0
+				},
+				"2996146975" : {
+					"statHash" : 2996146975,
+					"statName" : "Agility",
+					"statDescription" : "Increases your movement speed and maximum jump height.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_AGILITY",
+					"interpolate" : false,
+					"hash" : 2996146975,
+					"index" : 0
+				},
+				"144602215" : {
+					"statHash" : 144602215,
+					"statName" : "Intellect",
+					"statDescription" : "Decreases the cooldown of your super ability.\n\nIntellect can be increased by your Armor.",
+					"icon" : "/common/destiny_content/icons/d6298fd3b99c733469cb0801c769a6c8.png",
+					"statIdentifier" : "STAT_INTELLECT",
+					"interpolate" : false,
+					"hash" : 144602215,
+					"index" : 0
+				},
+				"1735777505" : {
+					"statHash" : 1735777505,
+					"statName" : "Discipline",
+					"statDescription" : "Discipline decreases the cooldown time of your grenades, allowing you to use them more often.\n\nFind and equip armor with Discipline to boost this effect.",
+					"icon" : "/common/destiny_content/icons/f27dc3cdb64e15f4fe6257325ac14ec1.png",
+					"statIdentifier" : "STAT_DISCIPLINE",
+					"interpolate" : false,
+					"hash" : 1735777505,
+					"index" : 0
+				},
+				"4244567218" : {
+					"statHash" : 4244567218,
+					"statName" : "Strength",
+					"statDescription" : "Strength reduces the cooldown time of your melee ability, allowing you to use it more often.\n\nFind and equip armor with Strength to boost this effect.",
+					"icon" : "/common/destiny_content/icons/9b2deb4e838203c27746f0220780fa91.png",
+					"statIdentifier" : "STAT_STRENGTH",
+					"interpolate" : false,
+					"hash" : 4244567218,
+					"index" : 0
+				}
+			},
+			"perks" : {
+				"3344771984" : {
+					"perkHash" : 3344771984,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 3344771984,
+					"index" : 0
+				},
+				"288757155" : {
+					"perkHash" : 288757155,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 288757155,
+					"index" : 0
+				},
+				"3344771985" : {
+					"perkHash" : 3344771985,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 3344771985,
+					"index" : 0
+				},
+				"661929942" : {
+					"perkHash" : 661929942,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 661929942,
+					"index" : 0
+				},
+				"661929941" : {
+					"perkHash" : 661929941,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 661929941,
+					"index" : 0
+				},
+				"2015769915" : {
+					"perkHash" : 2015769915,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2015769915,
+					"index" : 0
+				},
+				"4087094734" : {
+					"perkHash" : 4087094734,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 4087094734,
+					"index" : 0
+				},
+				"3293594018" : {
+					"perkHash" : 3293594018,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 3293594018,
+					"index" : 0
+				},
+				"4143124336" : {
+					"perkHash" : 4143124336,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 4143124336,
+					"index" : 0
+				},
+				"2928341343" : {
+					"perkHash" : 2928341343,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2928341343,
+					"index" : 0
+				},
+				"2928341342" : {
+					"perkHash" : 2928341342,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2928341342,
+					"index" : 0
+				},
+				"2928341341" : {
+					"perkHash" : 2928341341,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2928341341,
+					"index" : 0
+				},
+				"2093638209" : {
+					"perkHash" : 2093638209,
+					"displayIcon" : "/img/misc/missing_icon.png",
+					"isDisplayable" : false,
+					"hash" : 2093638209,
+					"index" : 0
+				}
+			},
+			"talentGrids" : {
+				"329013260" : {
+					"gridHash" : 329013260,
+					"maxGridLevel" : 0,
+					"gridLevelPerColumn" : 0,
+					"progressionHash" : 1997970403,
+					"nodes" : [{
+							"nodeIndex" : 0,
+							"nodeHash" : 0,
+							"row" : 0,
+							"column" : 2,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 783315142,
+									"nodeStepName" : "Glide",
+									"nodeStepDescription" : "Jump and then press  again while in the air to activate Glide.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/e2f21c5e609702ccf807bdfb740802ce.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 3,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 900,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 1,
+							"nodeHash" : 1,
+							"row" : 1,
+							"column" : 1,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2927723086,
+									"nodeStepName" : "Firebolt Grenade",
+									"nodeStepDescription" : "A grenade that unleashes bolts of Solar Light at nearby enemies.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/f222dc819240da9375ce0ce039cefb5e.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 7,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 16000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [16, 17],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 2,
+							"nodeHash" : 2,
+							"row" : 3,
+							"column" : 4,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 3275546234,
+									"nodeStepName" : "Brimstone",
+									"nodeStepDescription" : "Killing enemies with Scorch causes them to explode.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/fbcb868d0de271682a5c9b981090883f.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 25,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 310000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [11, 23],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 3,
+							"nodeHash" : 3,
+							"row" : 1,
+							"column" : 3,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 293627354,
+									"nodeStepName" : "Song of Flame",
+									"nodeStepDescription" : "While active, Radiance reduces all cooldowns for nearby allies.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/ec7f156c6f3d2d0bf57faacf10551bc3.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 9,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 31000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [18, 19],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 4,
+							"nodeHash" : 4,
+							"row" : 1,
+							"column" : 8,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 1252251091,
+									"nodeStepName" : "Angel of Light",
+									"nodeStepDescription" : "Aiming your weapon while in the air will hold you in place for a short time.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/a750a2adf5e43b921b68fc50e0a6445c.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 17,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [3344771984],
+									"startProgressionBarAtProgress" : 103000,
+									"statHashes" : [2996146975],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [5, 6],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 5,
+							"nodeHash" : 5,
+							"row" : 2,
+							"column" : 8,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2580986625,
+									"nodeStepName" : "Gift of the Sun",
+									"nodeStepDescription" : "Gain an additional grenade.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/e853b3fd74af22fe3c469c6cc75fd94c.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 28,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [288757155],
+									"startProgressionBarAtProgress" : 445000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [4, 6],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 6,
+							"nodeHash" : 6,
+							"row" : 0,
+							"column" : 8,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2233737290,
+									"nodeStepName" : "Touch of Flame",
+									"nodeStepDescription" : "All grenades Ignite enemies, causing damage over time.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/2256e374a346d2d9cdd356ce9422b356.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 13,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [3344771985],
+									"startProgressionBarAtProgress" : 67000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [4, 5],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 7,
+							"nodeHash" : 7,
+							"row" : 1,
+							"column" : 6,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2443566286,
+									"nodeStepName" : "Viking Funeral",
+									"nodeStepDescription" : "Enemies you Ignite burn longer and take more damage.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/66aef2b0dc39ea9efab9290d61ced7d4.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 15,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [661929942],
+									"startProgressionBarAtProgress" : 85000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [8, 9],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 8,
+							"nodeHash" : 8,
+							"row" : 0,
+							"column" : 6,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 1045810182,
+									"nodeStepName" : "Radiant Will",
+									"nodeStepDescription" : "Increases the duration of Radiance.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/56ae0e1662d0b5904499e69ab740d06e.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 11,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 49000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [7, 9],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 9,
+							"nodeHash" : 9,
+							"row" : 2,
+							"column" : 6,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2875508199,
+									"nodeStepName" : "Sunburst",
+									"nodeStepDescription" : "Killing an enemy with Scorch has a chance to generate Orbs of Light.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/76a4b7f805c7a351aaaa3eb59390b5d1.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 26,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [661929941],
+									"startProgressionBarAtProgress" : 355000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [7, 8],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 10,
+							"nodeHash" : 10,
+							"row" : 0,
+							"column" : -1,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : true,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 1090248760,
+									"nodeStepName" : "Force",
+									"nodeStepDescription" : "Slam a target with a wave of force.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/1cc931fddd7ae13aeb7050e3b820e20b.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 0,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 0,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 11,
+							"nodeHash" : 11,
+							"row" : 2,
+							"column" : 4,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 271449066,
+									"nodeStepName" : "Solar Wind",
+									"nodeStepDescription" : "Hitting an enemy with Scorch knocks them back.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/55b9ba848003008169e6bd89513c17f7.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 21,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 166000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [2, 23],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 12,
+							"nodeHash" : 12,
+							"row" : 0,
+							"column" : 4,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 442577355,
+									"nodeStepName" : "Scorch",
+									"nodeStepDescription" : "A powerful melee attack that Ignites enemies, causing damage over time.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/1205fcdf6df89b17bc1da89d3e2a05e4.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 5,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 10000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 13,
+							"nodeHash" : 13,
+							"row" : 1,
+							"column" : -1,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : true,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 1709114255,
+									"nodeStepName" : "Sprint",
+									"nodeStepDescription" : "Run faster.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/e2f21c5e609702ccf807bdfb740802ce.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 0,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 0,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 14,
+							"nodeHash" : 14,
+							"row" : 3,
+							"column" : 2,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 3110615508,
+									"nodeStepName" : "Balanced Glide",
+									"nodeStepDescription" : "Upgrades Glide to provide bonuses to both speed and control.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/85fd17653271dfa7b147c5cb00f2ae03.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 23,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 220000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [15, 22],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 15,
+							"nodeHash" : 15,
+							"row" : 1,
+							"column" : 2,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 630733919,
+									"nodeStepName" : "Focused Control",
+									"nodeStepDescription" : "Upgrades Glide for better directional control while in the air.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/2fb365c276f0c31754c41be36a184f06.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 8,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 23000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [14, 22],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 16,
+							"nodeHash" : 16,
+							"row" : 0,
+							"column" : 1,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 1397213608,
+									"nodeStepName" : "Solar Grenade",
+									"nodeStepDescription" : "A grenade that creates a flare of Solar Light which continually damages enemies trapped inside.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/281ac5a71496a69adc953cdbdc99583f.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 2,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [2015769915],
+									"startProgressionBarAtProgress" : 0,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [1, 17],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 17,
+							"nodeHash" : 17,
+							"row" : 2,
+							"column" : 1,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2995804739,
+									"nodeStepName" : "Fusion Grenade",
+									"nodeStepDescription" : "An explosive grenade that causes bonus damage when attached to its target.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/6cd3a4422756120da97efc1eb444e221.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 18,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 112000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [1, 16],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 18,
+							"nodeHash" : 18,
+							"row" : 3,
+							"column" : 3,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 1080999796,
+									"nodeStepName" : "Fireborn",
+									"nodeStepDescription" : "Radiance can now be activated from beyond the grave. Doing so returns you to life.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/e507adf2c860c4985e63d32a514986d4.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 24,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 265000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [3, 19],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 19,
+							"nodeHash" : 19,
+							"row" : 2,
+							"column" : 3,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2574794503,
+									"nodeStepName" : "Radiant Skin",
+									"nodeStepDescription" : "While active, Radiance reduces incoming damage.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/c91da0ad074740f0d0718731e61dd70a.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 20,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 145000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [3, 18],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 20,
+							"nodeHash" : 20,
+							"row" : 0,
+							"column" : 3,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 3212279946,
+									"nodeStepName" : "Radiance",
+									"nodeStepDescription" : "Fill yourself with Solar Light, dramatically increasing the effectiveness of all your abilities.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/8927ee6cedab2c1f3c18d093f1d5484a.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 4,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [4087094734, 3293594018],
+									"startProgressionBarAtProgress" : 5000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 21,
+							"nodeHash" : 21,
+							"row" : 2,
+							"column" : 5,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 4159802314,
+									"nodeStepName" : "Arcane Force",
+									"nodeStepDescription" : "Training focused on toughness and speed.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/9f053e236c6058fbb864ba8dfb005e40.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 22,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 190000,
+									"statHashes" : [392767087, 2996146975],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [25, 27],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 22,
+							"nodeHash" : 22,
+							"row" : 2,
+							"column" : 2,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 590136626,
+									"nodeStepName" : "Focused Burst",
+									"nodeStepDescription" : "Upgrades Glide to provide an initial boost of speed.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/2f282f191b4c11357382d3d13d812389.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 19,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 127000,
+									"statHashes" : [],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [14, 15],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 23,
+							"nodeHash" : 23,
+							"row" : 1,
+							"column" : 4,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 840661497,
+									"nodeStepName" : "Flame Shield",
+									"nodeStepDescription" : "Damaging an enemy with Scorch reduces incoming damage for a short time.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/c9664bfc0efff357b3a6d64ecfb27692.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 10,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [4143124336],
+									"startProgressionBarAtProgress" : 40000,
+									"statHashes" : [392767087],
+									"affectsQuality" : false,
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [2, 11],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 24,
+							"nodeHash" : 24,
+							"row" : 2,
+							"column" : -1,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : true,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 0,
+									"icon" : "/img/misc/missing_icon.png",
+									"damageType" : 3,
+									"damageTypeHash" : 1847026933,
+									"activationRequirement" : {
+										"gridLevel" : 0,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [2928341343, 2928341342, 2928341341, 2093638209],
+									"startProgressionBarAtProgress" : 0,
+									"statHashes" : [2996146975, 392767087, 1943323491],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 25,
+							"nodeHash" : 25,
+							"row" : 0,
+							"column" : 5,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 3019967372,
+									"nodeStepName" : "Arcane Wisdom",
+									"nodeStepDescription" : "Training focused on battle recovery and speed.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/9f053e236c6058fbb864ba8dfb005e40.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 6,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 16000,
+									"statHashes" : [1943323491, 2996146975],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [21, 27],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 26,
+							"nodeHash" : 26,
+							"row" : 1,
+							"column" : 7,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 581668101,
+									"nodeStepName" : "Chaos Order",
+									"nodeStepDescription" : "Training focused on raw speed.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/d990a80e196cf4e195a2ee324e88a840.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 16,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 94000,
+									"statHashes" : [2996146975],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [28, 29],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 27,
+							"nodeHash" : 27,
+							"row" : 1,
+							"column" : 5,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 4246978434,
+									"nodeStepName" : "Arcane Spirit",
+									"nodeStepDescription" : "Training focused on battle recovery and toughness.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/9f053e236c6058fbb864ba8dfb005e40.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 14,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 76000,
+									"statHashes" : [392767087, 1943323491],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [21, 25],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 28,
+							"nodeHash" : 28,
+							"row" : 2,
+							"column" : 7,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 3723926162,
+									"nodeStepName" : "Divine Order",
+									"nodeStepDescription" : "Training focused on toughness at all costs.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/d990a80e196cf4e195a2ee324e88a840.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 27,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 400000,
+									"statHashes" : [392767087, 1943323491],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [26, 29],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}, {
+							"nodeIndex" : 29,
+							"nodeHash" : 29,
+							"row" : 0,
+							"column" : 7,
+							"prerequisiteNodeIndexes" : [],
+							"binaryPairNodeIndex" : -1,
+							"autoUnlocks" : false,
+							"lastStepRepeats" : false,
+							"isRandom" : false,
+							"isRandomRepurchasable" : false,
+							"steps" : [{
+									"stepIndex" : 0,
+									"nodeStepHash" : 2359641602,
+									"nodeStepName" : "Ancestral Order",
+									"nodeStepDescription" : "Training focused on all attributes.",
+									"interactionDescription" : "Upgrade",
+									"icon" : "/common/destiny_content/icons/d990a80e196cf4e195a2ee324e88a840.png",
+									"damageType" : 0,
+									"damageTypeHash" : 0,
+									"activationRequirement" : {
+										"gridLevel" : 12,
+										"materialRequirementHashes" : []
+									},
+									"canActivateNextStep" : false,
+									"nextStepIndex" : -1,
+									"isNextStepRandom" : false,
+									"perkHashes" : [],
+									"startProgressionBarAtProgress" : 58000,
+									"statHashes" : [392767087, 2996146975, 1943323491],
+									"affectsQuality" : false,
+									"stepGroups" : {
+										"weaponPerformance" : 0,
+										"impactEffects" : 0,
+										"guardianAttributes" : 1,
+										"lightAbilities" : 0,
+										"damageTypes" : 0
+									},
+									"trueStepIndex" : 0,
+									"truePropertyIndex" : 0,
+									"affectsLevel" : false
+								}
+							],
+							"exlusiveWithNodes" : [26, 28],
+							"randomStartProgressionBarAtProgression" : 0,
+							"originalNodeHash" : 0
+						}
+					],
+					"calcMaxGridLevel" : 0,
+					"calcProgressToMaxLevel" : 0,
+					"exclusiveSets" : [{
+							"nodeIndexes" : [1, 16, 17]
+						}, {
+							"nodeIndexes" : [2, 11, 23]
+						}, {
+							"nodeIndexes" : [3, 18, 19]
+						}, {
+							"nodeIndexes" : [4, 5, 6]
+						}, {
+							"nodeIndexes" : [7, 8, 9]
+						}, {
+							"nodeIndexes" : [14, 15, 22]
+						}, {
+							"nodeIndexes" : [21, 25, 27]
+						}, {
+							"nodeIndexes" : [26, 28, 29]
+						}
+					],
+					"independentNodeIndexes" : [0, 12, 20],
+					"hash" : 329013260,
+					"index" : 0
+				}
+			},
+			"statGroups" : {
+				"1997970403" : {
+					"statGroupHash" : 1997970403,
+					"maximumValue" : 11,
+					"uiPosition" : 0,
+					"scaledStats" : [{
+							"statHash" : 392767087,
+							"maximumValue" : 11,
+							"displayAsNumeric" : false,
+							"displayInterpolation" : [{
+									"value" : 0,
+									"weight" : 0
+								}, {
+									"value" : 100,
+									"weight" : 100
+								}
+							]
+						}, {
+							"statHash" : 1943323491,
+							"maximumValue" : 11,
+							"displayAsNumeric" : false,
+							"displayInterpolation" : [{
+									"value" : 0,
+									"weight" : 0
+								}, {
+									"value" : 100,
+									"weight" : 100
+								}
+							]
+						}, {
+							"statHash" : 2996146975,
+							"maximumValue" : 11,
+							"displayAsNumeric" : false,
+							"displayInterpolation" : [{
+									"value" : 0,
+									"weight" : 0
+								}, {
+									"value" : 100,
+									"weight" : 100
+								}
+							]
+						}
+					],
+					"overrides" : {
+						"144602215" : {
+							"statHash" : 144602215,
+							"displayName" : "",
+							"displayDescription" : "",
+							"displayIcon" : "/img/misc/missing_icon.png"
+						},
+						"1735777505" : {
+							"statHash" : 1735777505,
+							"displayName" : "",
+							"displayDescription" : "",
+							"displayIcon" : "/img/misc/missing_icon.png"
+						},
+						"4244567218" : {
+							"statHash" : 4244567218,
+							"displayName" : "",
+							"displayDescription" : "",
+							"displayIcon" : "/img/misc/missing_icon.png"
+						}
+					},
+					"hash" : 1997970403,
+					"index" : 0
+				}
+			},
+			"progressionMappings" : {},
+			"itemCategories" : {
+				"21" : {
+					"itemCategoryHash" : 21,
+					"identifier" : "CATEGORY_CLASS_WARLOCK",
+					"visible" : false,
+					"title" : "Warlock",
+					"shortTitle" : "Warlock",
+					"description" : "Warlock class helmets, chest, arms and legs",
+					"grantDestinyItemType" : 0,
+					"grantDestinySubType" : 0,
+					"grantDestinyClass" : 0,
+					"hash" : 21,
+					"index" : 0
+				},
+				"50" : {
+					"itemCategoryHash" : 50,
+					"identifier" : "CATEGORY_BUILD",
+					"visible" : false,
+					"title" : "Subclasses",
+					"shortTitle" : "Subclasses",
+					"description" : "Builds for your characters.",
+					"grantDestinyItemType" : 0,
+					"grantDestinySubType" : 0,
+					"grantDestinyClass" : 0,
+					"hash" : 50,
+					"index" : 0
+				},
+				"52" : {
+					"itemCategoryHash" : 52,
+					"identifier" : "CATEGORY_INVENTORY",
+					"visible" : false,
+					"title" : "Inventory",
+					"shortTitle" : "Inventory",
+					"description" : "",
+					"grantDestinyItemType" : 0,
+					"grantDestinySubType" : 0,
+					"grantDestinyClass" : 0,
+					"hash" : 52,
+					"index" : 0
+				}
+			},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {
+				"1997970403" : {
+					"progressionHash" : 1997970403,
+					"name" : "build_warlock_thermal0",
+					"scope" : 2,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 900
+						}, {
+							"progressTotal" : 4100
+						}, {
+							"progressTotal" : 5000
+						}, {
+							"progressTotal" : 6000
+						}, {
+							"progressTotal" : 7000
+						}, {
+							"progressTotal" : 8000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 15000
+						}, {
+							"progressTotal" : 18000
+						}, {
+							"progressTotal" : 21000
+						}, {
+							"progressTotal" : 24000
+						}, {
+							"progressTotal" : 30000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}, {
+							"progressTotal" : 45000
+						}
+					],
+					"hash" : 1997970403,
+					"index" : 0
+				}
+			},
+			"damageTypes" : {
+				"1847026933" : {
+					"damageTypeHash" : 1847026933,
+					"identifier" : "DAMAGE_TYPE_THERMAL",
+					"damageTypeName" : "Solar",
+					"iconPath" : "/img/destiny_content/damage_types/thermal.png",
+					"transparentIconPath" : "img/destiny_content/damage_types/thermal_trans.png",
+					"showIcon" : true,
+					"enumValue" : 3,
+					"hash" : 1847026933,
+					"index" : 0
+				}
+			},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"destinations" : {},
+			"activities" : {},
+			"books" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"activityBundles" : {},
+			"flags" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

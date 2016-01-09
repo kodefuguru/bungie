@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "BaseJump", "BaseJump\BaseJump.shproj", "{5DC7C0FB-A470-4009-8899-8D3C3B083ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bungie", "Bungie\Bungie.csproj", "{8D7E5650-5E9B-4651-891B-20E021A7F510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bungie.Tests", "Bungie.Tests\Bungie.Tests.csproj", "{78355549-4C0C-4197-9DAF-929EDB148B77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C64091B4-AC06-4F55-AEBF-6A7C08642BA4}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		BaseJump\BaseJump.projitems*{8d7e5650-5e9b-4651-891b-20e021a7f510}*SharedItemsImports = 4
+		BaseJump\BaseJump.projitems*{5dc7c0fb-a470-4009-8899-8d3c3b083abb}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7E5650-5E9B-4651-891B-20E021A7F510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7E5650-5E9B-4651-891B-20E021A7F510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7E5650-5E9B-4651-891B-20E021A7F510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7E5650-5E9B-4651-891B-20E021A7F510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78355549-4C0C-4197-9DAF-929EDB148B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78355549-4C0C-4197-9DAF-929EDB148B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78355549-4C0C-4197-9DAF-929EDB148B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78355549-4C0C-4197-9DAF-929EDB148B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{78355549-4C0C-4197-9DAF-929EDB148B77} = {C64091B4-AC06-4F55-AEBF-6A7C08642BA4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,60 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 1686739444,
+			"activityType" : {
+				"activityTypeHash" : 1686739444,
+				"identifier" : "ACTIVITY_TYPE_STORY",
+				"activityTypeName" : "Story",
+				"activityTypeDescription" : "Embark on adventures alone or with a fireteam to push back the Darkness and reclaim our lost worlds.",
+				"icon" : "/common/destiny_content/icons/e9cb1e573d34c470fb91d9bd6c4c402f.png",
+				"activeBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Active/ministory.png",
+				"completedBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Completed/ministory.png",
+				"hiddenOverrideVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Hidden/ministory.png",
+				"tooltipBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Tooltip/ministory.png",
+				"enlargedActiveBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Active/story.png",
+				"enlargedCompletedBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Completed/story.png",
+				"enlargedHiddenOverrideVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Hidden/story.png",
+				"enlargedTooltipBackgroundVirtualPath" : "/img/destiny_content/ActivityTypeBackground/Tooltip/story.png",
+				"order" : 1,
+				"hash" : 1686739444,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

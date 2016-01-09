@@ -1,0 +1,52 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 3897883278,
+			"stat" : {
+				"statHash" : 3897883278,
+				"statName" : "Defense",
+				"statDescription" : "Reduces incoming damage from your enemies.",
+				"icon" : "/img/misc/missing_icon.png",
+				"statIdentifier" : "STAT_DEFENSE",
+				"interpolate" : false,
+				"hash" : 3897883278,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

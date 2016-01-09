@@ -1,0 +1,1925 @@
+{
+	"Response" : {
+		"data" : {
+			"progressions" : [{
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 5,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 5,
+					"nextLevelAt" : 50,
+					"progressionHash" : 3122728759
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 30,
+					"progressionHash" : 2318284751
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 10,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 2060414935
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 100000,
+					"progressionHash" : 3298204156
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 1,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 100,
+					"progressionHash" : 2432828054
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 346000,
+					"level" : 40,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 1716568313
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 14170925,
+					"level" : 566,
+					"step" : 0,
+					"progressToNextLevel" : 20925,
+					"nextLevelAt" : 25000,
+					"progressionHash" : 2030054750
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 1,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 4106427035
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 5,
+					"level" : 5,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 1774654531
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 5,
+					"level" : 5,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 2193513588
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 5,
+					"level" : 5,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 1707948164
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 4,
+					"level" : 4,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 2158037182
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 187532,
+					"level" : 63,
+					"step" : 0,
+					"progressToNextLevel" : 532,
+					"nextLevelAt" : 3000,
+					"progressionHash" : 529303302
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 16675,
+					"level" : 7,
+					"step" : 0,
+					"progressToNextLevel" : 1675,
+					"nextLevelAt" : 3000,
+					"progressionHash" : 174528503
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 8500,
+					"level" : 5,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 2161005788
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 5577,
+					"level" : 2,
+					"step" : 0,
+					"progressToNextLevel" : 1577,
+					"nextLevelAt" : 3000,
+					"progressionHash" : 452808717
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 52890,
+					"level" : 21,
+					"step" : 0,
+					"progressToNextLevel" : 1890,
+					"nextLevelAt" : 2500,
+					"progressionHash" : 3233510749
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 30708,
+					"level" : 12,
+					"step" : 0,
+					"progressToNextLevel" : 2208,
+					"nextLevelAt" : 2500,
+					"progressionHash" : 1357277120
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 62941,
+					"level" : 25,
+					"step" : 0,
+					"progressToNextLevel" : 1941,
+					"nextLevelAt" : 2500,
+					"progressionHash" : 2778795080
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 11511,
+					"level" : 5,
+					"step" : 0,
+					"progressToNextLevel" : 511,
+					"nextLevelAt" : 2500,
+					"progressionHash" : 1424722124
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 6108,
+					"level" : 3,
+					"step" : 0,
+					"progressToNextLevel" : 108,
+					"nextLevelAt" : 2500,
+					"progressionHash" : 3871980777
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 1,
+					"level" : 1,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 594203991
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 3467485450
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 691336206
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 1329,
+					"level" : 1,
+					"step" : 0,
+					"progressToNextLevel" : 329,
+					"nextLevelAt" : 3000,
+					"progressionHash" : 3641985238
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 13194,
+					"level" : 5,
+					"step" : 0,
+					"progressToNextLevel" : 194,
+					"nextLevelAt" : 3000,
+					"progressionHash" : 807090922
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 14000,
+					"level" : 7,
+					"step" : 0,
+					"progressToNextLevel" : 1000,
+					"nextLevelAt" : 2000,
+					"progressionHash" : 2335631936
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 46,
+					"level" : 46,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 3186678724
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 15337,
+					"level" : 3,
+					"step" : 0,
+					"progressToNextLevel" : 6337,
+					"nextLevelAt" : 8500,
+					"progressionHash" : 2763619072
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 6,
+					"progressionHash" : 665638366
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 51,
+					"level" : 51,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 45089664
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 220716918
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 2226114450
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 6,
+					"level" : 6,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 2033897742
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : 0,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 1,
+					"progressionHash" : 2033897755
+				}, {
+					"dailyProgress" : 0,
+					"weeklyProgress" : 0,
+					"currentProgress" : 0,
+					"level" : -1,
+					"step" : 0,
+					"progressToNextLevel" : 0,
+					"nextLevelAt" : 0,
+					"progressionHash" : 372013324
+				}
+			],
+			"levelProgression" : {
+				"dailyProgress" : 0,
+				"weeklyProgress" : 0,
+				"currentProgress" : 346000,
+				"level" : 40,
+				"step" : 0,
+				"progressToNextLevel" : 0,
+				"nextLevelAt" : 0,
+				"progressionHash" : 1716568313
+			},
+			"baseCharacterLevel" : 40,
+			"isPrestigeLevel" : false,
+			"factionProgressionHash" : 2778795080,
+			"percentToNextLevel" : 0.0
+		},
+		"definitions" : {
+			"progressions" : {
+				"2778795080" : {
+					"progressionHash" : 2778795080,
+					"name" : "faction_pvp_dead_orbit",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/6b1b3920541eb794f4e71a568a99fa9c.png",
+					"identifier" : "PROGRESSION_DEAD_ORBIT",
+					"steps" : [{
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}
+					],
+					"hash" : 2778795080,
+					"index" : 0
+				},
+				"1716568313" : {
+					"progressionHash" : 1716568313,
+					"name" : "character_level",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"identifier" : "PROGRESSION_CHARACTER_LEVEL",
+					"steps" : [{
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 900
+						}, {
+							"progressTotal" : 4100
+						}, {
+							"progressTotal" : 5000
+						}, {
+							"progressTotal" : 6000
+						}, {
+							"progressTotal" : 7000
+						}, {
+							"progressTotal" : 8000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 9000
+						}, {
+							"progressTotal" : 10000
+						}, {
+							"progressTotal" : 15000
+						}, {
+							"progressTotal" : 20000
+						}
+					],
+					"hash" : 1716568313,
+					"index" : 0
+				},
+				"3122728759" : {
+					"progressionHash" : 3122728759,
+					"name" : "banhammer.pvp.idleness",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 50
+						}
+					],
+					"hash" : 3122728759,
+					"index" : 0
+				},
+				"2318284751" : {
+					"progressionHash" : 2318284751,
+					"name" : "banhammer.pvp.quitterness",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 30
+						}, {
+							"progressTotal" : 10
+						}, {
+							"progressTotal" : 20
+						}
+					],
+					"hash" : 2318284751,
+					"index" : 0
+				},
+				"2060414935" : {
+					"progressionHash" : 2060414935,
+					"name" : "base_item_level",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 2060414935,
+					"index" : 0
+				},
+				"3298204156" : {
+					"progressionHash" : 3298204156,
+					"name" : "character_display_xp",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"steps" : [{
+							"progressTotal" : 100000
+						}
+					],
+					"hash" : 3298204156,
+					"index" : 0
+				},
+				"2432828054" : {
+					"progressionHash" : 2432828054,
+					"name" : "character_gear_tilt",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 0
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 100
+						}
+					],
+					"hash" : 2432828054,
+					"index" : 0
+				},
+				"2030054750" : {
+					"progressionHash" : 2030054750,
+					"name" : "character_prestige",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/5a66e0da4130dfd8aa9264fc0414a240.png",
+					"identifier" : "PROGRESSION_CHARACTER_PRESTIGE",
+					"steps" : [{
+							"progressTotal" : 25000
+						}
+					],
+					"hash" : 2030054750,
+					"index" : 0
+				},
+				"4106427035" : {
+					"progressionHash" : 4106427035,
+					"name" : "death_penalty",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 0
+						}
+					],
+					"hash" : 4106427035,
+					"index" : 0
+				},
+				"1774654531" : {
+					"progressionHash" : 1774654531,
+					"name" : "destination_chests_cosmodrome",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 1774654531,
+					"index" : 0
+				},
+				"2193513588" : {
+					"progressionHash" : 2193513588,
+					"name" : "destination_chests_mars",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 2193513588,
+					"index" : 0
+				},
+				"1707948164" : {
+					"progressionHash" : 1707948164,
+					"name" : "destination_chests_moon",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 1707948164,
+					"index" : 0
+				},
+				"2158037182" : {
+					"progressionHash" : 2158037182,
+					"name" : "destination_chests_venus",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 2158037182,
+					"index" : 0
+				},
+				"529303302" : {
+					"progressionHash" : 529303302,
+					"name" : "faction_cryptarch",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/782487808e001eaacc6b8c156bf27594.png",
+					"identifier" : "PROGRESSION_CRYPTARCH",
+					"steps" : [{
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 3000
+						}
+					],
+					"hash" : 529303302,
+					"index" : 0
+				},
+				"174528503" : {
+					"progressionHash" : 174528503,
+					"name" : "faction_eris",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/90933aa9337da7bc741fa4d71659d54c.png",
+					"steps" : [{
+							"progressTotal" : 1000
+						}, {
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 3000
+						}
+					],
+					"hash" : 174528503,
+					"index" : 0
+				},
+				"2161005788" : {
+					"progressionHash" : 2161005788,
+					"name" : "faction_event_iron_banner",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"icon" : "/img/destiny_content/progression/iron_banner.png",
+					"identifier" : "PROGRESSION_EVENT_IRON_BANNER",
+					"steps" : [{
+							"progressTotal" : 100
+						}, {
+							"progressTotal" : 1200
+						}, {
+							"progressTotal" : 2400
+						}, {
+							"progressTotal" : 2400
+						}, {
+							"progressTotal" : 2400
+						}
+					],
+					"hash" : 2161005788,
+					"index" : 0
+				},
+				"452808717" : {
+					"progressionHash" : 452808717,
+					"name" : "faction_event_queen",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"icon" : "/common/destiny_content/icons/da2683ddf5ca65620ef45ae820bcc49c.png",
+					"identifier" : "PROGRESSION_EVENT_QUEEN",
+					"steps" : [{
+							"progressTotal" : 1000
+						}, {
+							"progressTotal" : 3000
+						}, {
+							"progressTotal" : 3000
+						}
+					],
+					"hash" : 452808717,
+					"index" : 0
+				},
+				"3233510749" : {
+					"progressionHash" : 3233510749,
+					"name" : "faction_fotc_vanguard",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/327cdda24bd03e82d219d1b4516e0f62.png",
+					"identifier" : "PROGRESSION_VANGUARD",
+					"steps" : [{
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 2500
+						}
+					],
+					"hash" : 3233510749,
+					"index" : 0
+				},
+				"1357277120" : {
+					"progressionHash" : 1357277120,
+					"name" : "faction_pvp",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/21995355d1cd296295bf14f85ca4b8c1.png",
+					"identifier" : "PROGRESSION_CRUCIBLE",
+					"steps" : [{
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 2500
+						}
+					],
+					"hash" : 1357277120,
+					"index" : 0
+				},
+				"1424722124" : {
+					"progressionHash" : 1424722124,
+					"name" : "faction_pvp_future_war_cult",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/78b47014fd3c17078c0d7427caa2b3ef.png",
+					"identifier" : "PROGRESSION_FUTURE_WAR_CULT",
+					"steps" : [{
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}
+					],
+					"hash" : 1424722124,
+					"index" : 0
+				},
+				"3871980777" : {
+					"progressionHash" : 3871980777,
+					"name" : "faction_pvp_new_monarchy",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/a60248a796706185af18c9ee7908c21d.png",
+					"identifier" : "PROGRESSION_NEW_MONARCHY",
+					"steps" : [{
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}, {
+							"progressTotal" : 2500
+						}
+					],
+					"hash" : 3871980777,
+					"index" : 0
+				},
+				"594203991" : {
+					"progressionHash" : 594203991,
+					"name" : "pvp_iron_banner.loss_tokens",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 594203991,
+					"index" : 0
+				},
+				"3467485450" : {
+					"progressionHash" : 3467485450,
+					"name" : "pvp_tournament0.losses",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 3467485450,
+					"index" : 0
+				},
+				"691336206" : {
+					"progressionHash" : 691336206,
+					"name" : "pvp_tournament0.wins",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 691336206,
+					"index" : 0
+				},
+				"3641985238" : {
+					"progressionHash" : 3641985238,
+					"name" : "r1_s3_factions_fallen",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/a81c3802f15443913b36f6f297923233.png",
+					"steps" : [{
+							"progressTotal" : 1000
+						}, {
+							"progressTotal" : 3000
+						}, {
+							"progressTotal" : 3000
+						}
+					],
+					"hash" : 3641985238,
+					"index" : 0
+				},
+				"807090922" : {
+					"progressionHash" : 807090922,
+					"name" : "r1_s3_factions_queen",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/da2683ddf5ca65620ef45ae820bcc49c.png",
+					"steps" : [{
+							"progressTotal" : 1000
+						}, {
+							"progressTotal" : 3000
+						}, {
+							"progressTotal" : 3000
+						}
+					],
+					"hash" : 807090922,
+					"index" : 0
+				},
+				"2335631936" : {
+					"progressionHash" : 2335631936,
+					"name" : "r1_s4_factions_gunsmith",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/6f00d5e7916a92e4d47f1b07816f276d.png",
+					"steps" : [{
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 1500
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 2000
+						}, {
+							"progressTotal" : 2000
+						}
+					],
+					"hash" : 2335631936,
+					"index" : 0
+				},
+				"3186678724" : {
+					"progressionHash" : 3186678724,
+					"name" : "r1_s4_hiveship_orbs",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 3186678724,
+					"index" : 0
+				},
+				"2763619072" : {
+					"progressionHash" : 2763619072,
+					"name" : "r1_s4_pvp_racing",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/362efa8ebfc9f1e570e160baf9f253aa.png",
+					"identifier" : "PROGRESSION_R1_S4_SRL_EVENT",
+					"steps" : [{
+							"progressTotal" : 1750
+						}, {
+							"progressTotal" : 2750
+						}, {
+							"progressTotal" : 4500
+						}, {
+							"progressTotal" : 8500
+						}
+					],
+					"hash" : 2763619072,
+					"index" : 0
+				},
+				"665638366" : {
+					"progressionHash" : 665638366,
+					"name" : "superior_gear_material_source",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 6
+						}
+					],
+					"hash" : 665638366,
+					"index" : 0
+				},
+				"45089664" : {
+					"progressionHash" : 45089664,
+					"name" : "terminals",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"steps" : [{
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 45089664,
+					"index" : 0
+				},
+				"220716918" : {
+					"progressionHash" : 220716918,
+					"name" : "r1_s4_tickets.pvp.trials_of_osiris.wins",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 220716918,
+					"index" : 0
+				},
+				"2226114450" : {
+					"progressionHash" : 2226114450,
+					"name" : "r1_s4_tickets.pvp.trials_of_osiris.losses",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 2226114450,
+					"index" : 0
+				},
+				"2033897742" : {
+					"progressionHash" : 2033897742,
+					"name" : "weekly_pve",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"identifier" : "WEEKLY_PVE",
+					"description" : "Currency used to purchase Legendary weapons and armor in the Tower.",
+					"source" : "Vanguard Marks are earned most quickly by playing in Strike Playlists.  You can earn up to 100 Vanguard Marks per week.",
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 2033897742,
+					"index" : 0
+				},
+				"2033897755" : {
+					"progressionHash" : 2033897755,
+					"name" : "weekly_pvp",
+					"scope" : 1,
+					"repeatLastStep" : false,
+					"identifier" : "WEEKLY_PVP",
+					"description" : "Currency used to purchase Legendary weapons and armor in the Tower.",
+					"source" : "Crucible Marks are earned most quickly by competing in the Crucible against other Guardians.  You can earn up to 100 Crucible Marks per week.",
+					"steps" : [{
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}, {
+							"progressTotal" : 1
+						}
+					],
+					"hash" : 2033897755,
+					"index" : 0
+				},
+				"372013324" : {
+					"progressionHash" : 372013324,
+					"name" : "test_faction",
+					"scope" : 1,
+					"repeatLastStep" : true,
+					"icon" : "/common/destiny_content/icons/782487808e001eaacc6b8c156bf27594.png",
+					"steps" : [],
+					"hash" : 372013324,
+					"index" : 0
+				}
+			}
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

@@ -1,0 +1,168 @@
+{
+	"Response" : {
+		"data" : {
+			"requestedId" : 1997970403,
+			"statGroup" : {
+				"statGroupHash" : 1997970403,
+				"maximumValue" : 11,
+				"uiPosition" : 0,
+				"scaledStats" : [{
+						"statHash" : 392767087,
+						"maximumValue" : 11,
+						"displayAsNumeric" : false,
+						"displayInterpolation" : [{
+								"value" : 0,
+								"weight" : 0
+							}, {
+								"value" : 100,
+								"weight" : 100
+							}
+						]
+					}, {
+						"statHash" : 1943323491,
+						"maximumValue" : 11,
+						"displayAsNumeric" : false,
+						"displayInterpolation" : [{
+								"value" : 0,
+								"weight" : 0
+							}, {
+								"value" : 100,
+								"weight" : 100
+							}
+						]
+					}, {
+						"statHash" : 2996146975,
+						"maximumValue" : 11,
+						"displayAsNumeric" : false,
+						"displayInterpolation" : [{
+								"value" : 0,
+								"weight" : 0
+							}, {
+								"value" : 100,
+								"weight" : 100
+							}
+						]
+					}
+				],
+				"overrides" : {
+					"144602215" : {
+						"statHash" : 144602215,
+						"displayName" : "",
+						"displayDescription" : "",
+						"displayIcon" : "/img/misc/missing_icon.png"
+					},
+					"1735777505" : {
+						"statHash" : 1735777505,
+						"displayName" : "",
+						"displayDescription" : "",
+						"displayIcon" : "/img/misc/missing_icon.png"
+					},
+					"4244567218" : {
+						"statHash" : 4244567218,
+						"displayName" : "",
+						"displayDescription" : "",
+						"displayIcon" : "/img/misc/missing_icon.png"
+					}
+				},
+				"hash" : 1997970403,
+				"index" : 0
+			}
+		},
+		"definitions" : {
+			"destinations" : {},
+			"places" : {},
+			"activityTypes" : {},
+			"items" : {},
+			"buckets" : {},
+			"stats" : {
+				"392767087" : {
+					"statHash" : 392767087,
+					"statName" : "Armor",
+					"statDescription" : "Increases the amount of damage you can take before dying.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_ARMOR",
+					"interpolate" : false,
+					"hash" : 392767087,
+					"index" : 0
+				},
+				"1943323491" : {
+					"statHash" : 1943323491,
+					"statName" : "Recovery",
+					"statDescription" : "Increases the speed at which you regain lost health.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_RECOVERY",
+					"interpolate" : false,
+					"hash" : 1943323491,
+					"index" : 0
+				},
+				"2996146975" : {
+					"statHash" : 2996146975,
+					"statName" : "Agility",
+					"statDescription" : "Increases your movement speed and maximum jump height.",
+					"icon" : "/img/misc/missing_icon.png",
+					"statIdentifier" : "STAT_AGILITY",
+					"interpolate" : false,
+					"hash" : 2996146975,
+					"index" : 0
+				},
+				"144602215" : {
+					"statHash" : 144602215,
+					"statName" : "Intellect",
+					"statDescription" : "Decreases the cooldown of your super ability.\n\nIntellect can be increased by your Armor.",
+					"icon" : "/common/destiny_content/icons/d6298fd3b99c733469cb0801c769a6c8.png",
+					"statIdentifier" : "STAT_INTELLECT",
+					"interpolate" : false,
+					"hash" : 144602215,
+					"index" : 0
+				},
+				"1735777505" : {
+					"statHash" : 1735777505,
+					"statName" : "Discipline",
+					"statDescription" : "Discipline decreases the cooldown time of your grenades, allowing you to use them more often.\n\nFind and equip armor with Discipline to boost this effect.",
+					"icon" : "/common/destiny_content/icons/f27dc3cdb64e15f4fe6257325ac14ec1.png",
+					"statIdentifier" : "STAT_DISCIPLINE",
+					"interpolate" : false,
+					"hash" : 1735777505,
+					"index" : 0
+				},
+				"4244567218" : {
+					"statHash" : 4244567218,
+					"statName" : "Strength",
+					"statDescription" : "Strength reduces the cooldown time of your melee ability, allowing you to use it more often.\n\nFind and equip armor with Strength to boost this effect.",
+					"icon" : "/common/destiny_content/icons/9b2deb4e838203c27746f0220780fa91.png",
+					"statIdentifier" : "STAT_STRENGTH",
+					"interpolate" : false,
+					"hash" : 4244567218,
+					"index" : 0
+				}
+			},
+			"perks" : {},
+			"talentGrids" : {},
+			"statGroups" : {},
+			"progressionMappings" : {},
+			"itemCategories" : {},
+			"sources" : {},
+			"objectives" : {},
+			"progressions" : {},
+			"damageTypes" : {},
+			"materialRequirements" : {},
+			"unlockValues" : {},
+			"vendorDetails" : {},
+			"locations" : {},
+			"factions" : {},
+			"events" : {},
+			"vendorCategories" : {},
+			"vendorSummaries" : {},
+			"activities" : {},
+			"books" : {},
+			"activityBundles" : {}
+
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

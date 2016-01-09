@@ -1,0 +1,15 @@
+{
+	"Response" : [{
+			"iconPath" : "/img/theme/destiny/icons/icon_xbl.png",
+			"membershipType" : 1,
+			"membershipId" : "4611686018432640426",
+			"displayName" : "kodefuguru"
+		}
+	],
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}

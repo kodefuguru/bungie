@@ -1,0 +1,42 @@
+{
+	"Response" : {
+		"data" : {
+			"badges" : [{
+					"badgeHashId" : 10
+				}, {
+					"badgeHashId" : 11
+				}
+			]
+		},
+		"definitions" : {
+			"badges" : {
+				"10" : {
+					"badgeHashId" : 10,
+					"badgeName" : "Queen's Wrath Badge",
+					"badgeDescription" : "Gain rank 1 of the Queen's Reputation.",
+					"tier" : 1,
+					"largeImageUrl" : "/img/theme/destiny/icons/profilebadges/queen_tier1.png",
+					"smallImageUrl" : "/img/theme/destiny/icons/profilebadges/queen_small_tier1.png",
+					"hash" : 10,
+					"index" : 0
+				},
+				"11" : {
+					"badgeHashId" : 11,
+					"badgeName" : "Queen's Wrath Badge",
+					"badgeDescription" : "Gain rank 2 of the Queen's Reputation.",
+					"tier" : 2,
+					"largeImageUrl" : "/img/theme/destiny/icons/profilebadges/queen_tier2.png",
+					"smallImageUrl" : "/img/theme/destiny/icons/profilebadges/queen_small_tier2.png",
+					"hash" : 11,
+					"index" : 0
+				}
+			}
+		}
+	},
+	"ErrorCode" : 1,
+	"ThrottleSeconds" : 0,
+	"ErrorStatus" : "Success",
+	"Message" : "Ok",
+	"MessageData" : {}
+
+}
