@@ -151,6 +151,7 @@
     <EmbeddedResource Include="Responses\GetDefinitionForUnlockFlag.json" />
     <EmbeddedResource Include="Responses\GetDefinitionForPlace.json" />
     <EmbeddedResource Include="Responses\SearchTalentNodeSteps.json" />
+    <EmbeddedResource Include="Responses\GetCharacterInventorySummary.json" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Bungie\Bungie.csproj">

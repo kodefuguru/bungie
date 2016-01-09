@@ -113,6 +113,27 @@
             return await Request<GetAggregateActivityStatsResponse>(model);
         }
 
+
+        /// <summary>
+        /// Returns Destiny character information for the given characterId.
+        /// </summary>
+        /// <remarks>
+        /// http://bungienetplatform.wikia.com/wiki/GetCharacterSummary
+        /// </remarks>
+        [Route("{membershipType}/Account/{membershipId}/Character/{characterId}")]
+        public async Task<GetCharacterResponse> GetCharacter(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        {
+            var model = new
+            {
+                membershipType,
+                membershipId,
+                characterId,
+                definitions
+            };
+
+            return await Request<GetCharacterResponse>(model);
+        }
+
         /// <summary>
         /// Returns activity progress for a given character.
         /// </summary>
@@ -154,6 +175,26 @@
         }
 
         /// <summary>
+        /// Returns the inventory summary of a Destiny character
+        /// </summary>
+        /// <remarks>
+        /// https://www.bungie.net/platform/destiny/help/HelpDetail/GET?uri=%7bmembershipType%7d%2fAccount%2f%7bdestinyMembershipId%7d%2fCharacter%2f%7bcharacterId%7d%2fInventory%2fSummary%2f
+        /// </remarks>
+        [Route("{membershipType}/Account/{membershipId}/Character/{characterId}/Inventory/Summary")]
+        public async Task<object> GetCharacterInventorySummary(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        {
+            var model = new
+            {
+                membershipType,
+                membershipId,
+                characterId,
+                definitions
+            };
+
+            return await Request<object>(model);
+        }
+
+        /// <summary>
         /// Returns progression information for a given Destiny character.
         /// </summary>
         /// <remarks>
@@ -171,26 +212,6 @@
             };
 
             return await Request<GetCharacterProgressionResponse>(model);
-        }
-
-        /// <summary>
-        /// Returns Destiny character information for the given characterId.
-        /// </summary>
-        /// <remarks>
-        /// http://bungienetplatform.wikia.com/wiki/GetCharacterSummary
-        /// </remarks>
-        [Route("{membershipType}/Account/{membershipId}/Character/{characterId}")]
-        public async Task<GetCharacterResponse> GetCharacter(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
-        {
-            var model = new
-            {
-                membershipType,
-                membershipId,
-                characterId,
-                definitions
-            };
-
-            return await Request<GetCharacterResponse>(model);
         }
 
         /// <summary>

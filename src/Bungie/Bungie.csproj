@@ -102,6 +102,7 @@
     <Compile Include="Models\ActivityEntry.cs" />
     <Compile Include="Models\ActivityEntryExtended.cs" />
     <Compile Include="Models\ItemSearch.cs" />
+    <Compile Include="Models\ItemSummary.cs" />
     <Compile Include="Models\SaleItemCategory.cs" />
     <Compile Include="Models\Search.cs" />
     <Compile Include="Models\SearchQuery.cs" />
@@ -167,6 +168,7 @@
     <Compile Include="Definitions\Stat.cs" />
     <Compile Include="Models\GameStats.cs" />
     <Compile Include="Responses\GetActivitiesResponse.cs" />
+    <Compile Include="Responses\GetCharacterInventorySummaryResponse.cs" />
     <Compile Include="Responses\GetDefinitionResponse.cs" />
     <Compile Include="Responses\GetStatsDefinitionResponse.cs" />
     <Compile Include="Models\InventorySummary.cs" />

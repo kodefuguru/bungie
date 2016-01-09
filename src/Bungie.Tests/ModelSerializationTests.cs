@@ -195,6 +195,25 @@
         }
 
         [Test]
+        public void GetCharacterInventorySummary()
+        {
+            var result = Deserialize<GetCharacterInventorySummaryResponse>();
+            result.Should().NotBeNull();
+            result.Inventory.Should().NotBeNull();
+            result.Inventory.Items.Should().NotBeNull().And.NotBeEmpty();
+            result.Definitions.Items.Should().NotBeEmpty();
+            result.Definitions.Buckets.Should().NotBeEmpty();
+            result.Definitions.Stats.Should().NotBeEmpty();
+            result.Definitions.Perks.Should().NotBeEmpty();
+            result.Definitions.TalentGrids.Should().NotBeEmpty();
+            result.Definitions.StatGroups.Should().NotBeEmpty();
+            result.Definitions.ItemCategories.Should().NotBeEmpty();
+            result.Definitions.Sources.Should().NotBeEmpty();
+            result.Definitions.Progressions.Should().NotBeEmpty();
+            result.Definitions.DamageTypes.Should().NotBeEmpty();
+        }
+
+        [Test]
         public void GetCharacterProgression()
         {
             var result = Deserialize<GetCharacterProgressionResponse>();

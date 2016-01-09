@@ -23,6 +23,7 @@
             //var response = service.GetAggregateActivityStats(type, id, cid, definitions: true);
             //var response = service.GetCharacterActivities(type, id, cid, definitions: true);
             //var response = service.GetCharacterInventory(type, id, cid, definitions: true);
+            var response = service.GetCharacterInventorySummary(type, id, cid, definitions: true);
             //var response = service.GetCharacterProgression(type, id, cid, definitions: true);
             //var response = service.GetCharacterSummary(type, id, cid, definitions: true);
             //var response = service.GetDefinition(DefinitionType.Activity, 3120351941, definitions: true);
@@ -47,7 +48,7 @@
             //var response = service.GetDefinition(DefinitionType.TalentGrid, 3604172206, definitions: true);
             //var response = service.GetDefinition(DefinitionType.UnlockFlag, 1680320212, definitions: true);
             //var response = service.GetDefinition(DefinitionType.Vendor, 570929315, definitions: true);
-            var response = service.GetEvents(definitions: true);
+            //var response = service.GetEvents(definitions: true);
             //var response = service.GetExcellenceBadges(type, id, definitions: true);
             //var response = service.GetGrimoireByMembership(type, id, definitions: true);
             //var response = service.GetGrimoireDefinition();
