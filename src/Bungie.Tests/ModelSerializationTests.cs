@@ -619,11 +619,24 @@
             result.Definitions.VendorCategories.Should().NotBeEmpty();
         }
 
-        [Test, Ignore]
+        [Test]
         public void GetXur()
         {
             var result = Deserialize<GetXurResponse>();
             result.Should().NotBeNull();
+            result.Xur.Should().NotBeNull();
+            result.Xur.VendorHash.Should().Be(2796397637);
+            result.Definitions.Items.Should().NotBeEmpty();
+            result.Definitions.Buckets.Should().NotBeEmpty();
+            result.Definitions.Stats.Should().NotBeEmpty();
+            result.Definitions.Perks.Should().NotBeEmpty();
+            result.Definitions.TalentGrids.Should().NotBeEmpty();
+            result.Definitions.StatGroups.Should().NotBeEmpty();
+            result.Definitions.Progressions.Should().NotBeEmpty();
+            result.Definitions.DamageTypes.Should().NotBeEmpty();
+            result.Definitions.Events.Should().NotBeEmpty();
+            result.Definitions.VendorCategories.Should().NotBeEmpty();
+            result.Definitions.Flags.Should().NotBeEmpty();
         }            
 
         [Test]

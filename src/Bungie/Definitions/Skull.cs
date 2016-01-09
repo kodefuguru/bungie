@@ -1,6 +1,6 @@
 ﻿namespace Bungie.Definitions
 {
-    public class ScriptedSkull
+    public class Skull
     {
         public long SkullHash { get; set; }
         public string Identifier { get; set; }

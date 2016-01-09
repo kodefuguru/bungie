@@ -55,6 +55,7 @@
     <Compile Include="Definitions\DyeExpression.cs" />
     <Compile Include="Definitions\EnemyRace.cs" />
     <Compile Include="Definitions\EquippingBlock.cs" />
+    <Compile Include="Definitions\Event.cs" />
     <Compile Include="Definitions\ExclusiveSet.cs" />
     <Compile Include="Definitions\Faction.cs" />
     <Compile Include="Definitions\Flag.cs" />
@@ -76,7 +77,7 @@
     <Compile Include="Definitions\Reward.cs" />
     <Compile Include="Definitions\RewardItem.cs" />
     <Compile Include="Definitions\ScaledStat.cs" />
-    <Compile Include="Definitions\ScriptedSkull.cs" />
+    <Compile Include="Definitions\Skull.cs" />
     <Compile Include="Definitions\Source.cs" />
     <Compile Include="Definitions\StatGroup.cs" />
     <Compile Include="Definitions\TalentGrid.cs" />

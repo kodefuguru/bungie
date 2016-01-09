@@ -12,7 +12,7 @@
         public HashMap<DamageType> DamageTypes { get; set; }
         public HashMap<Destination> Destinations { get; set; }
         public HashMap<EnemyRace> EnemyRaces { get; set; }
-        public HashMap<Unknown> Events { get; set; }
+        public HashMap<Event> Events { get; set; }
         public HashMap<Faction> Factions { get; set; }
         public HashMap<Flag> Flags { get; set; }
         public HashMap<Gender> Genders { get; set; }
@@ -27,7 +27,7 @@
         public HashMap<Progression> Progressions { get; set; }
         public HashMap<Unknown> ProgressionMappings { get; set; }
         public HashMap<Race> Races { get; set; }
-        public HashMap<ScriptedSkull> ScriptedSkulls { get; set; }
+        public HashMap<Skull> ScriptedSkulls { get; set; }
         public HashMap<Source> Sources { get; set; }
         public HashMap<StatGroup> StatGroups { get; set; }
         public HashMap<Stat> Stats { get; set; }
@@ -50,7 +50,7 @@
             DamageTypes = new HashMap<DamageType>();
             Destinations = new HashMap<Destination>();
             EnemyRaces = new HashMap<EnemyRace>();
-            Events = new HashMap<Unknown>();
+            Events = new HashMap<Event>();
             Factions = new HashMap<Faction>();
             Flags = new HashMap<Flag>();
             Genders = new HashMap<Gender>();
@@ -65,7 +65,7 @@
             Progressions = new HashMap<Progression>();
             ProgressionMappings = new HashMap<Unknown>();
             Races = new HashMap<Race>();
-            ScriptedSkulls = new HashMap<ScriptedSkull>();
+            ScriptedSkulls = new HashMap<Skull>();
             Sources = new HashMap<Source>();
             StatGroups = new HashMap<StatGroup>();
             Stats = new HashMap<Stat>();

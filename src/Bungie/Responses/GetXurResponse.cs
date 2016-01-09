@@ -6,6 +6,6 @@ namespace Bungie.Responses
     public class GetXurResponse : DefinitionsResponse
     {
         [JsonProperty("data")]
-        public Vendor Vendor { get; set; }
+        public Vendor Xur { get; set; }
     }
 }
