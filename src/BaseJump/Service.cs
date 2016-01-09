@@ -18,14 +18,6 @@
             Headers = new Dictionary<string, string>();
         }
 
-        private void AddHeaders(RequestBuilder builder)
-        {
-            foreach (var header in Headers)
-            {
-                builder.AddHeader(header.Key, header.Value);
-            }
-        }
-
         private async Task<T> Deserialize<T>(Stream stream)
         {
             using (var reader = new StreamReader(stream))
@@ -42,9 +34,9 @@
 
         private Task<WebRequest> Request(object service, string methodName, object model)
         {
-            var requestBuilder = new RequestBuilder(service, methodName, model);
-            AddHeaders(requestBuilder);
-            return requestBuilder.Build();
+            var requestBuilder = new RequestBuilder();
+            requestBuilder.AddHeaders(Headers);
+            return requestBuilder.Build(service, methodName, model);
         }
 
         protected virtual Task<WebResponse> Response(WebRequest request)

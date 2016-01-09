@@ -11,11 +11,8 @@
     {
         private readonly Service service = new Service();
 
-        protected string Root { get; private set; }
-
         protected BungieService(string apiKey)
         {
-            Root = String.Format("https://www.bungie.net/platform/{0}/", GetType().Name.Replace("Service", String.Empty));
             service.Headers["X-API-Key"] = apiKey;
         }
 

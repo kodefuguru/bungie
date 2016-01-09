@@ -31,19 +31,11 @@ namespace BaseJump.Core
         protected IActionMetadata ActionMetadata { get; private set; }
         protected IServiceMetadata ServiceMetadata { get; private set; }
 
-        public RequestBuilder(object service, string action, object model)
+        public RequestBuilder()
         {
             actionMetadataProvider = new ActionMetadataProvider(new Conventions.DefaultActionPathConvention(), new Conventions.DefaultHttpMethodConvention());
             modelMetadataProvider = new ModelMetadataProvider();
-            serviceMetadataProvider = new ServiceMetadataProvider(new Conventions.DefaultServicePathConvention());
-            Service = service;
-            ServiceType = service.GetType();
-            Action = action;
-            Model = model ?? new { };
-            ModelType = Model.GetType();
-            ActionMetadata = actionMetadataProvider.GetMetadataFor(Service, Action, Model);
-            ServiceMetadata = serviceMetadataProvider.GetMetadataFor(Service);
-            ModelDictionary = new ModelDictionary(Model);
+            serviceMetadataProvider = new ServiceMetadataProvider(new Conventions.DefaultServicePathConvention());            
             Headers = new Dictionary<string, string>();
             Values = new Dictionary<string, string>();
         }
@@ -61,8 +53,17 @@ namespace BaseJump.Core
             }
         }
 
-        public async Task<WebRequest> Build()
+        public async Task<WebRequest> Build(object service, string action, object model)
         {
+            Service = service;
+            ServiceType = service.GetType();
+            Action = action;
+            Model = model ?? new { };
+            ModelType = Model.GetType();
+            ActionMetadata = actionMetadataProvider.GetMetadataFor(Service, Action, Model);
+            ServiceMetadata = serviceMetadataProvider.GetMetadataFor(Service);
+            ModelDictionary = new ModelDictionary(Model); 
+            
             BuildValues();
             BuildRoute();
             Request = WebRequest.CreateHttp(Route);
