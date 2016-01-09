@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://kodefuguru.com/bungie/license</licenseUrl>
+    <projectUrl>http://kodefuguru.com/bungie</projectUrl>
+    <iconUrl>http://kodefuguru.com/bungie/license/logo</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release containing DestinyService for unauthenticated calls.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>bungie destiny</tags>
+  </metadata>
+</package>

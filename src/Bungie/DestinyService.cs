@@ -173,13 +173,13 @@
         }
 
         /// <summary>
-        /// Returns Destiny character information for the given characterId. To get a more detailed overview, see the private endpoint GetDestinyAccountCharacterComplete.
+        /// Returns Destiny character information for the given characterId.
         /// </summary>
         /// <remarks>
         /// http://bungienetplatform.wikia.com/wiki/GetCharacterSummary
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Character/{characterId}")]
-        public async Task<GetCharacterSummaryResponse> GetCharacterSummary(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public async Task<GetCharacterResponse> GetCharacter(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -189,7 +189,7 @@
                 definitions
             };
 
-            return await Request<GetCharacterSummaryResponse>(model);
+            return await Request<GetCharacterResponse>(model);
         }
 
         /// <summary>

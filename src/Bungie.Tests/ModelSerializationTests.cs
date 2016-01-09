@@ -206,9 +206,9 @@
         [Test]
         public void GetCharacterSummary()
         {
-            var result = Deserialize<GetCharacterSummaryResponse>();
+            var result = Deserialize<GetCharacterResponse>();
             result.Should().NotBeNull();
-            result.CharacterSummary.Should().NotBeNull();
+            result.Character.Should().NotBeNull();
             result.Definitions.Races.Should().NotBeEmpty();
             result.Definitions.Genders.Should().NotBeEmpty();
             result.Definitions.Classes.Should().NotBeEmpty();

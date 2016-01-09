@@ -194,7 +194,7 @@
     <Compile Include="Responses\GetCharacterActivitiesResponse.cs" />
     <Compile Include="Responses\GetCharacterInventoryResponse.cs" />
     <Compile Include="Responses\GetCharacterProgressionResponse.cs" />
-    <Compile Include="Responses\GetCharacterSummaryResponse.cs" />
+    <Compile Include="Responses\GetCharacterResponse.cs" />
     <Compile Include="Responses\GetEventsResponse.cs" />
     <Compile Include="Responses\GetExcellenceBadgesResponse.cs" />
     <Compile Include="Responses\GetGrimoireDefinitionResponse.cs" />
