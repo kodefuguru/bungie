@@ -566,8 +566,23 @@
             var model = new
             {
                 impactEffects,
+                guardianAttributes,
+                lightAbilities,
+                damageTypes,
+                sourcecat,
+                sourcehash,
+                matchrandomsteps,
+                definitions,
+                categories,
+                order,
+                weaponPerformance,
+                rarity,
+                page,
+                name,
                 count,
-                definitions
+                orderstathash,
+                direction,
+                step
             };
 
             return await Request<SearchItemsResponse>(model);
