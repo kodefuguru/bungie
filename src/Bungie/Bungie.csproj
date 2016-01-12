@@ -100,6 +100,7 @@
     <Compile Include="HashMap.cs" />
     <Compile Include="IDestinyService.cs" />
     <Compile Include="ImpactEffect.cs" />
+    <Compile Include="IUserService.cs" />
     <Compile Include="LightAbility.cs" />
     <Compile Include="Models\AckState.cs" />
     <Compile Include="Models\Activity.cs" />
@@ -289,6 +290,7 @@
     <Compile Include="ItemSubtype.cs" />
     <Compile Include="Rarity.cs" />
     <Compile Include="StatsGroup.cs" />
+    <Compile Include="UserService.cs" />
     <Compile Include="WeaponPerformance.cs" />
   </ItemGroup>
   <ItemGroup>
