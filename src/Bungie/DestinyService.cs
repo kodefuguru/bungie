@@ -21,7 +21,7 @@
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}")]
         [Obsolete("Use GetAccountSummary. GetAccount is marked DEPRECATED int the bungie.net platform.")]
-        public async Task<GetAccountResponse> GetAccount(MembershipType membershipType, long membershipId, bool? definitions = null)
+        public Task<GetAccountResponse> GetAccount(MembershipType membershipType, long membershipId, bool? definitions = null)
         {
             var model = new
             {
@@ -30,7 +30,7 @@
                 definitions
             };
 
-            return await Request<GetAccountResponse>(model);
+            return Request<GetAccountResponse>(model);
         }
 
         /// <summary>
@@ -40,7 +40,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetDestinyAccountSummary
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Summary")]
-        public async Task<GetAccountSummaryResponse> GetAccountSummary(MembershipType membershipType, long membershipId, bool? definitions = null)
+        public Task<GetAccountSummaryResponse> GetAccountSummary(MembershipType membershipType, long membershipId, bool? definitions = null)
         {
             var model = new 
             {
@@ -49,7 +49,7 @@
                 definitions
             };
 
-            return await Request<GetAccountSummaryResponse>(model);
+            return Request<GetAccountSummaryResponse>(model);
         }
 
         /// <summary>
@@ -59,7 +59,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetActivityHistory
         /// </remarks>
         [Route("Stats/ActivityHistory/{membershipType}/{membershipId}/{characterId}")]
-        public async Task<GetActivitiesResponse> GetActivities(MembershipType membershipType, long membershipId, long characterId, ActivityMode mode, int? count = null, int? page = null, bool? definitions = null)
+        public Task<GetActivitiesResponse> GetActivities(MembershipType membershipType, long membershipId, long characterId, ActivityMode mode, int? count = null, int? page = null, bool? definitions = null)
         {
             var model = new
             {
@@ -72,7 +72,7 @@
                 definitions
             };
 
-            return await Request<GetActivitiesResponse>(model);
+            return Request<GetActivitiesResponse>(model);
         }
 
         /// <summary>
@@ -82,14 +82,14 @@
         /// http://bungienetplatform.wikia.com/wiki/GetPublicAdvisors
         /// </remarks>
         [Route("Advisors")]
-        public async Task<GetAdvisorsResponse> GetAdvisors(bool? definitions = null)
+        public Task<GetAdvisorsResponse> GetAdvisors(bool? definitions = null)
         {
             var model = new
             {
                 definitions
             };
 
-            return await Request<GetAdvisorsResponse>(model);
+            return Request<GetAdvisorsResponse>(model);
         }
 
  
@@ -100,7 +100,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetDestinyAggregateActivityStats
         /// </remarks>
         [Route("Stats/AggregateActivityStats/{membershipType}/{membershipId}/{characterId}")]
-        public async Task<GetAggregateActivityStatsResponse> GetAggregateActivityStats(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public Task<GetAggregateActivityStatsResponse> GetAggregateActivityStats(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -110,7 +110,7 @@
                 definitions
             };
 
-            return await Request<GetAggregateActivityStatsResponse>(model);
+            return Request<GetAggregateActivityStatsResponse>(model);
         }
 
 
@@ -121,7 +121,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetCharacterSummary
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Character/{characterId}")]
-        public async Task<GetCharacterResponse> GetCharacter(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public Task<GetCharacterResponse> GetCharacter(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -131,7 +131,7 @@
                 definitions
             };
 
-            return await Request<GetCharacterResponse>(model);
+            return Request<GetCharacterResponse>(model);
         }
 
         /// <summary>
@@ -141,7 +141,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetCharacterActivities
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Character/{characterId}/Activities")]
-        public async Task<GetCharacterActivitiesResponse> GetCharacterActivities(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public Task<GetCharacterActivitiesResponse> GetCharacterActivities(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -151,7 +151,7 @@
                 definitions
             };
 
-            return await Request<GetCharacterActivitiesResponse>(model);
+            return Request<GetCharacterActivitiesResponse>(model);
         }
 
         /// <summary>
@@ -161,7 +161,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetCharacterInventory
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Character/{characterId}/Inventory")]
-        public async Task<GetCharacterInventoryResponse> GetCharacterInventory(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public Task<GetCharacterInventoryResponse> GetCharacterInventory(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -171,7 +171,7 @@
                 definitions
             };
 
-            return await Request<GetCharacterInventoryResponse>(model);
+            return Request<GetCharacterInventoryResponse>(model);
         }
 
         /// <summary>
@@ -181,7 +181,7 @@
         /// https://www.bungie.net/platform/destiny/help/HelpDetail/GET?uri=%7bmembershipType%7d%2fAccount%2f%7bdestinyMembershipId%7d%2fCharacter%2f%7bcharacterId%7d%2fInventory%2fSummary%2f
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Character/{characterId}/Inventory/Summary")]
-        public async Task<object> GetCharacterInventorySummary(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public Task<object> GetCharacterInventorySummary(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -191,7 +191,7 @@
                 definitions
             };
 
-            return await Request<object>(model);
+            return Request<object>(model);
         }
 
         /// <summary>
@@ -201,7 +201,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetCharacterProgression
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Character/{characterId}/Progression")]
-        public async Task<GetCharacterProgressionResponse> GetCharacterProgression(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public Task<GetCharacterProgressionResponse> GetCharacterProgression(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -211,7 +211,7 @@
                 definitions
             };
 
-            return await Request<GetCharacterProgressionResponse>(model);
+            return Request<GetCharacterProgressionResponse>(model);
         }
 
         /// <summary>
@@ -221,7 +221,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetDestinySingleDefinition
         /// </remarks>
         [Route("Manifest/{type}/{id}")]
-        public async Task<GetDefinitionResponse> GetDefinition(DefinitionType type, long id, Unknown version = default(Unknown), bool? definitions = null)
+        public Task<GetDefinitionResponse> GetDefinition(DefinitionType type, long id, Unknown version = default(Unknown), bool? definitions = null)
         {
             var model = new
             {
@@ -231,7 +231,7 @@
                 definitions
             };
 
-            return await Request<GetDefinitionResponse>(model);
+            return Request<GetDefinitionResponse>(model);
         }
 
         /// <summary>
@@ -241,14 +241,14 @@
         /// http://bungienetplatform.wikia.com/wiki/GetSpecialEventAdvisors
         /// </remarks>
         [Route("Events")]
-        public async Task<GetEventsResponse> GetEvents(bool? definitions = null)
+        public Task<GetEventsResponse> GetEvents(bool? definitions = null)
         {
             var model = new
             {
                 definitions
             };
 
-            return await Request<GetEventsResponse>(model);
+            return Request<GetEventsResponse>(model);
         }
 
         /// <summary>
@@ -258,7 +258,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetExcellenceBadges
         /// </remarks>
         [Route("Stats/GetExcellenceBadges/{membershipType}/{membershipId}")]
-        public async Task<GetExcellenceBadgesResponse> GetExcellenceBadges(MembershipType membershipType, long membershipId, bool? definitions = null)
+        public Task<GetExcellenceBadgesResponse> GetExcellenceBadges(MembershipType membershipType, long membershipId, bool? definitions = null)
         {
             var model = new
             {
@@ -267,7 +267,7 @@
                 definitions
             };
 
-            return await Request<GetExcellenceBadgesResponse>(model);
+            return Request<GetExcellenceBadgesResponse>(model);
         }
       
         /// <summary>
@@ -277,7 +277,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetGrimoireByMembership
         /// </remarks>
         [Route("Vanguard/Grimoire/{membershipType}/{membershipId}")]
-        public async Task<GetGrimoireByMembershipResponse> GetGrimoireByMembership(MembershipType membershipType, long membershipId, bool? flavour = null, int? cardId = null, bool? definitions = null)
+        public Task<GetGrimoireByMembershipResponse> GetGrimoireByMembership(MembershipType membershipType, long membershipId, bool? flavour = null, int? cardId = null, bool? definitions = null)
         {
             var model = new
             {
@@ -288,7 +288,7 @@
                 definitions
             };
 
-            return await Request<GetGrimoireByMembershipResponse>(model);
+            return Request<GetGrimoireByMembershipResponse>(model);
         }
 
         /// <summary>
@@ -298,9 +298,9 @@
         /// http://bungienetplatform.wikia.com/wiki/GetGrimoireDefinition
         /// </remarks>
         [Route("Vanguard/Grimoire/Definition")]
-        public async Task<GetGrimoireDefinitionResponse> GetGrimoireDefinition()
+        public Task<GetGrimoireDefinitionResponse> GetGrimoireDefinition()
         {
-            return await Request<GetGrimoireDefinitionResponse>();
+            return Request<GetGrimoireDefinitionResponse>();
         }
          
         /// <summary>
@@ -310,7 +310,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetItemDetail
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Character/{characterId}/Inventory/{itemId}")]
-        public async Task<GetItemDetailResponse> GetItemDetail(MembershipType membershipType, long membershipId, long characterId, long itemId, bool? definitions = null)
+        public Task<GetItemDetailResponse> GetItemDetail(MembershipType membershipType, long membershipId, long characterId, long itemId, bool? definitions = null)
         {
             var model = new
             {
@@ -321,7 +321,7 @@
                 definitions
             };
 
-            return await Request<GetItemDetailResponse>(model);
+            return Request<GetItemDetailResponse>(model);
         }
         
         /// <summary>
@@ -331,9 +331,9 @@
         /// http://bungienetplatform.wikia.com/wiki/GetDestinyLiveTileContentItems
         /// </remarks>
         [Route("LiveTiles")]
-        public async Task<GetLiveTilesResponse> GetLiveTiles()
+        public Task<GetLiveTilesResponse> GetLiveTiles()
         {
-            return await Request<GetLiveTilesResponse>();
+            return Request<GetLiveTilesResponse>();
         }
 
         /// <summary>
@@ -343,9 +343,9 @@
         /// http://bungienetplatform.wikia.com/wiki/GetDestinyManifest
         /// </remarks>
         [Route("Manifest")]
-        public async Task<GetManifestResponse> GetManifest()
+        public Task<GetManifestResponse> GetManifest()
         {
-            return await Request<GetManifestResponse>();
+            return Request<GetManifestResponse>();
         }
 
         /// <summary>
@@ -355,7 +355,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetMembershipIdByDisplayName
         /// </remarks>
         [Route("{membershipType}/Stats/GetMembershipIdByDisplayName/{displayName}")]
-        public async Task<long> GetMembershipId(MembershipType membershipType, string displayName, bool? ignoreCase = null)
+        public Task<long> GetMembershipId(MembershipType membershipType, string displayName, bool? ignoreCase = null)
         {
             var model = new
             {
@@ -364,7 +364,7 @@
                 ignoreCase
             };
 
-            return await Request<long>(model);
+            return Request<long>(model);
         }
 
         /// <summary>
@@ -374,7 +374,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetPostGameCarnageReport
         /// </remarks>
         [Route("Stats/PostGameCarnageReport/{activityId}")]
-        public async Task<GetPostGameCarnageReportResponse> GetPostGameCarnageReport(long activityId, bool? definitions = null)
+        public Task<GetPostGameCarnageReportResponse> GetPostGameCarnageReport(long activityId, bool? definitions = null)
         {
             var model = new
             {
@@ -382,7 +382,7 @@
                 definitions
             };
 
-            return await Request<GetPostGameCarnageReportResponse>(model);
+            return Request<GetPostGameCarnageReportResponse>(model);
         }
 
         /// <summary>
@@ -392,9 +392,9 @@
         /// http://bungienetplatform.wikia.com/wiki/GetHistoricalStatsDefinition
         /// </remarks>
         [Route("Stats/Definition")]
-        public async Task<GetStatsDefinitionResponse> GetStatsDefinition()
+        public Task<GetStatsDefinitionResponse> GetStatsDefinition()
         {
-            return await Request<GetStatsDefinitionResponse>();
+            return Request<GetStatsDefinitionResponse>();
         }
 
         /// <summary>
@@ -404,7 +404,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetHistoricalStatsForAccount
         /// </remarks>
         [Route("Stats/Account/{membershipType}/{membershipId}")]
-        public async Task<GetStatsForAccountResponse> GetStatsForAccount(MembershipType membershipType, long membershipId, IEnumerable<StatsGroup> groups = null)
+        public Task<GetStatsForAccountResponse> GetStatsForAccount(MembershipType membershipType, long membershipId, IEnumerable<StatsGroup> groups = null)
         {
             var model = new
             {
@@ -413,7 +413,7 @@
                 groups,
             };
 
-            return await Request<GetStatsForAccountResponse>(model);
+            return Request<GetStatsForAccountResponse>(model);
         }
 
         /// <summary>
@@ -423,7 +423,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetHistoricalStats
         /// </remarks>
         [Route("Stats/{membershipType}/{membershipId}/{characterId}")]
-        public async Task<GetStatsForCharacter> GetStatsForCharacter(MembershipType membershipType, long membershipId, long characterId, PeriodType? periodType = null, IEnumerable<ActivityMode> modes = null, IEnumerable<StatsGroup> groups = null, DateTime? monthStart = null, DateTime? monthEnd = null, DateTime? dayStart = null, DateTime? dayEnd = null)
+        public Task<GetStatsForCharacter> GetStatsForCharacter(MembershipType membershipType, long membershipId, long characterId, PeriodType? periodType = null, IEnumerable<ActivityMode> modes = null, IEnumerable<StatsGroup> groups = null, DateTime? monthStart = null, DateTime? monthEnd = null, DateTime? dayStart = null, DateTime? dayEnd = null)
         {
             var model = new
             {
@@ -439,7 +439,7 @@
                 dayEnd = dayEnd.HasValue ? String.Format("{0:yyyy-MM-dd}", dayEnd) : null
             };
 
-            return await Request<GetStatsForCharacter>(model);
+            return Request<GetStatsForCharacter>(model);
         }
 
         /// <summary>
@@ -449,7 +449,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetTriumphs
         /// </remarks>
         [Route("{membershipType}/Account/{membershipId}/Triumphs")]
-        public async Task<GetTriumphsResponse> GetTriumphs(MembershipType membershipType, long membershipId, bool? definitions = null)
+        public Task<GetTriumphsResponse> GetTriumphs(MembershipType membershipType, long membershipId, bool? definitions = null)
         {
             var model = new
             {
@@ -458,7 +458,7 @@
                 definitions
             };
 
-            return await Request<GetTriumphsResponse>(model);
+            return Request<GetTriumphsResponse>(model);
         }
 
         /// <summary>
@@ -468,7 +468,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetUniqueWeaponHistory
         /// </remarks>
         [Route("Stats/UniqueWeapons/{membershipType}/{membershipId}/{characterId}")]
-        public async Task<GetUniqueWeaponsStatsResponse> GetUniqueWeaponsStats(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
+        public Task<GetUniqueWeaponsStatsResponse> GetUniqueWeaponsStats(MembershipType membershipType, long membershipId, long characterId, bool? definitions = null)
         {
             var model = new
             {
@@ -478,7 +478,7 @@
                 definitions
             };
 
-            return await Request<GetUniqueWeaponsStatsResponse>(model);
+            return Request<GetUniqueWeaponsStatsResponse>(model);
         }
        
         /// <summary>
@@ -488,7 +488,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetPublicVendor
         /// </remarks>
         [Route("Vendors/{vendorId}")]
-        public async Task<GetVendorResponse> GetVendor(long vendorId, bool? definitions = null)
+        public Task<GetVendorResponse> GetVendor(long vendorId, bool? definitions = null)
         {
             var model = new
             {
@@ -496,7 +496,7 @@
                 definitions
             };
 
-            return await Request<GetVendorResponse>(model);
+            return Request<GetVendorResponse>(model);
         }
 
         /// <summary>
@@ -506,7 +506,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetPublicVendorWithMetadata
         /// </remarks>
         [Route("Vendors/{vendorId}/Metadata")]
-        public async Task<GetVendorWithMetadataResponse> GetVendorWithMetadata(long vendorId, bool? definitions = null)
+        public Task<GetVendorWithMetadataResponse> GetVendorWithMetadata(long vendorId, bool? definitions = null)
         {
             var model = new
             {
@@ -514,7 +514,7 @@
                 definitions
             };
 
-            return await Request<GetVendorWithMetadataResponse>(model);
+            return Request<GetVendorWithMetadataResponse>(model);
         }
      
       
@@ -526,14 +526,14 @@
         /// </remarks>
         /// <returns>Vendor object or null if Xur is unavailable.</returns>
         [Route("Advisors/Xur")]
-        public async Task<GetXurResponse> GetXur(bool? definitions = null)
+        public Task<GetXurResponse> GetXur(bool? definitions = null)
         {
             var model = new
             {
                 definitions
             };
 
-            return await Request<GetXurResponse>(model);
+            return Request<GetXurResponse>(model);
         }
 
         /// <summary>
@@ -561,7 +561,7 @@
         /// <param name="direction">Order to sort items: Ascending or Descending</param>
         /// <param name="step">Hash ID of the talent node step that an item must have in order to be returned.</param>
         [Route("Explorer/Items")]
-        public async Task<SearchItemsResponse> SearchItems(ImpactEffect? impactEffects = null, GuardianAttribute? guardianAttributes = null, LightAbility? lightAbilities = null, DamageType? damageTypes = null, SourceCategory? sourcecat = null, long? sourcehash = null, bool? matchrandomsteps = null, bool? definitions = null, long? categories = null, SortOrder? order = null, WeaponPerformance? weaponPerformance = null, Rarity? rarity = null, int? page = null, string name = null, Count? count = null, bool? orderstathash = null, SortDirection? direction = null, long? step = null)
+        public Task<SearchItemsResponse> SearchItems(ImpactEffect? impactEffects = null, GuardianAttribute? guardianAttributes = null, LightAbility? lightAbilities = null, DamageType? damageTypes = null, SourceCategory? sourcecat = null, long? sourcehash = null, bool? matchrandomsteps = null, bool? definitions = null, long? categories = null, SortOrder? order = null, WeaponPerformance? weaponPerformance = null, Rarity? rarity = null, int? page = null, string name = null, Count? count = null, bool? orderstathash = null, SortDirection? direction = null, long? step = null)
         {
             var model = new
             {
@@ -585,7 +585,7 @@
                 step
             };
 
-            return await Request<SearchItemsResponse>(model);
+            return Request<SearchItemsResponse>(model);
         }
 
         /// <summary>
@@ -595,7 +595,7 @@
         /// http://bungienetplatform.wikia.com/wiki/SearchDestinyPlayer
         /// </remarks>
         [Route("SearchDestinyPlayer/{membershipType}/{displayName}")]
-        public async Task<SearchPlayersResponse> SearchPlayers(MembershipType membershipType, string displayName)
+        public Task<SearchPlayersResponse> SearchPlayers(MembershipType membershipType, string displayName)
         {
             var model = new
             {
@@ -603,7 +603,7 @@
                 displayName
             };
 
-            return await Request<SearchPlayersResponse>(model);
+            return Request<SearchPlayersResponse>(model);
         }
 
         /// <summary>
@@ -613,7 +613,7 @@
         /// http://bungienetplatform.wikia.com/wiki/GetDestinyExplorerTalentNodeSteps
         /// </remarks>
         [Route("Explorer/TalentNodeSteps")]
-        public async Task<SearchTalentNodeStepsResponse> SearchTalentNodeSteps(int? page = null, int? count = null, string name = null, Unknown direction = default(Unknown), Unknown weaponPerformance = default(Unknown), Unknown impactEffects = default(Unknown), Unknown guardianAttributes = default(Unknown), Unknown lightAbilities = default(Unknown), Unknown damageTypes = default(Unknown), bool? definitions = null)
+        public Task<SearchTalentNodeStepsResponse> SearchTalentNodeSteps(int? page = null, int? count = null, string name = null, Unknown direction = default(Unknown), Unknown weaponPerformance = default(Unknown), Unknown impactEffects = default(Unknown), Unknown guardianAttributes = default(Unknown), Unknown lightAbilities = default(Unknown), Unknown damageTypes = default(Unknown), bool? definitions = null)
         {
             var model = new
             {
@@ -628,7 +628,7 @@
                 definitions
             };
 
-            return await Request<SearchTalentNodeStepsResponse>(model);
+            return Request<SearchTalentNodeStepsResponse>(model);
         }      
     }
 }
