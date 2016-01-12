@@ -95,10 +95,12 @@
     <Compile Include="Definitions\WeightedValue.cs" />
     <Compile Include="DefinitionType.cs" />
     <Compile Include="DestinyService.cs" />
+    <Compile Include="ForumService.cs" />
     <Compile Include="GenderType.cs" />
     <Compile Include="GuardianAttribute.cs" />
     <Compile Include="HashMap.cs" />
     <Compile Include="IDestinyService.cs" />
+    <Compile Include="IForumService.cs" />
     <Compile Include="ImpactEffect.cs" />
     <Compile Include="IUserService.cs" />
     <Compile Include="LightAbility.cs" />

@@ -4,7 +4,7 @@
     using BaseJump;
 
     [Route("https://www.bungie.net/platform/user")]
-    public class UserService : BungieService
+    public class UserService : BungieService, IUserService
     {
         public UserService(string apiKey) : base(apiKey)
         {
